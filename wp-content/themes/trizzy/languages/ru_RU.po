@@ -1,0 +1,5244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trizzy\n"
+"POT-Creation-Date: 2015-04-22 10:59+0100\n"
+"PO-Revision-Date: 2017-04-14 11:17+0300\n"
+"Last-Translator: Łukasz Girek <contact@purethemes.net>\n"
+"Language-Team: Łukasz Girek <contact@purethemes.net>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:13 404.php:18
+msgid "404 Page Not Found"
+msgstr "Ошибка 404. Страница не найдена"
+
+#: 404.php:17 inc/template-tags.php:205
+msgid "Главная"
+msgstr "Главная"
+
+#: 404.php:32
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: archive-team.php:17
+msgid "The Team"
+msgstr "Команда"
+
+#: archive.php:28
+#, php-format
+msgid "Author: %s"
+msgstr "Автор:  %s"
+
+#: archive.php:31
+#, php-format
+msgid "Day: %s"
+msgstr "День:% s"
+
+#: archive.php:34
+#, php-format
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: archive.php:34
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:37
+#, php-format
+msgid "Year: %s"
+msgstr "Год:  %s"
+
+#: archive.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:40
+msgid "Asides"
+msgstr "В стороне"
+
+#: archive.php:43
+msgid "Galleries"
+msgstr "Галереи"
+
+#: archive.php:46
+msgid "Images"
+msgstr "Изображения"
+
+#: archive.php:49
+msgid "Videos"
+msgstr "Видео"
+
+#: archive.php:52
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: archive.php:55
+msgid "Links"
+msgstr "Ссылки"
+
+#: archive.php:58
+msgid "Statuses"
+msgstr "Статусы"
+
+#: archive.php:61
+msgid "Audios"
+msgstr "Аудио"
+
+#: archive.php:64
+msgid "Chats"
+msgstr "Чаты"
+
+#: archive.php:67 sidebar.php:15 sidebar.php:36
+msgid "Archives"
+msgstr "Архивы"
+
+#: comments.php:26
+msgid "Comments"
+msgstr "Комментарии"
+
+#: comments.php:31 comments.php:49
+msgid "Comment navigation"
+msgstr "Навигация"
+
+#: comments.php:32 comments.php:50
+msgid "&larr; Older Comments"
+msgstr "&larr; Ранние комментарии"
+
+#: comments.php:33 comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: content-none.php:13 inc/vc.php:1565
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готовы к публикации Вашего первого поста?<a href=\"%1$s\">Нажмите для "
+"старта</a>."
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, ничего не найдено по Вашему запросу. Попробуйте изменить  ключевые "
+"слова в поиске."
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Кажется, мы не можем найти то, что Вы ищете. Возможно, поиск может помочь."
+
+#: content-page.php:12 content-pageleft.php:12 content-pageright.php:12
+#: content-single.php:106 content.php:27
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить просмотр <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:38 content.php:48
+msgid ", "
+msgstr ""
+
+#: content.php:42
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Опубликована в рубрике %1$s"
+
+#: content.php:52
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Метки %1$s"
+
+#: content.php:58
+msgid "Leave a comment"
+msgstr "Комментировать"
+
+#: content.php:58
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: content.php:58
+msgid "% Comments"
+msgstr "Комментарии"
+
+#: content.php:61 option-tree/includes/ot-functions-admin.php:3422
+#: option-tree/includes/ot-functions-admin.php:3490
+#: option-tree/includes/ot-functions-admin.php:3491
+#: option-tree/includes/ot-functions-admin.php:3653
+#: option-tree/includes/ot-functions-admin.php:3654
+#: option-tree/includes/ot-functions-admin.php:3719
+#: option-tree/includes/ot-functions-admin.php:3720
+#: option-tree/includes/ot-functions-admin.php:3847
+#: option-tree/includes/ot-functions-admin.php:3848
+#: option-tree/includes/ot-functions-admin.php:3981
+#: option-tree/includes/ot-functions-admin.php:3982
+#: woocommerce/myaccount/my-address.php:68
+msgid "Edit"
+msgstr "Изменить"
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: functions.php:57
+msgid "Shop Menu"
+msgstr "Меню магазина"
+
+#: functions.php:97 inc/meta-boxes.php:54
+msgid "Sidebar"
+msgstr "Боковая Панель"
+
+#: functions.php:106 inc/template-tags.php:227
+msgid "Shop"
+msgstr "Магазин"
+
+#: functions.php:228
+msgid "Out of stock"
+msgstr "Нет в наличии"
+
+#: functions.php:448 functions.php:449 functions.php:459
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: functions.php:450 functions.php:555 functions.php:604
+#: option-tree/includes/ot-functions-option-types.php:892
+#: option-tree/includes/ot-functions-option-types.php:1583
+#: option-tree/includes/ot-functions-option-types.php:1748
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: functions.php:451
+msgid "Add New Work"
+msgstr "Добавить новую работу"
+
+#: functions.php:452
+msgid "Edit Work"
+msgstr "Изменить"
+
+#: functions.php:453
+msgid "New Work"
+msgstr "Добавить новую работу"
+
+#: functions.php:454
+msgid "View Work"
+msgstr "Просмотреть работу"
+
+#: functions.php:455
+msgid "Search Portfolio"
+msgstr "Портфолио"
+
+#: functions.php:456
+msgid "No portfolio found"
+msgstr "Портфолио не найдены"
+
+#: functions.php:457
+msgid "No works found in Trash"
+msgstr "В мусорке работ не найдено"
+
+#: functions.php:458
+msgid "Parent work:"
+msgstr "Родительская работа:"
+
+#: functions.php:465 functions.php:570
+msgid "Display your works by filters"
+msgstr "Отфильтровать работы"
+
+#: functions.php:492 functions.php:506
+msgid "Filters"
+msgstr "Фильтры"
+
+#: functions.php:493
+msgid "Filter"
+msgstr "Фильтр"
+
+#: functions.php:494
+msgid "Search Filters"
+msgstr "Искать фильтры"
+
+#: functions.php:495
+msgid "Popular Filters"
+msgstr "Популярные фильтры"
+
+#: functions.php:496
+msgid "All Filters"
+msgstr "Все фильтры"
+
+#: functions.php:497
+msgid "Parent Filter"
+msgstr "Родительский фильтр"
+
+#: functions.php:498
+msgid "Parent Filter:"
+msgstr "Родительский фильтр:"
+
+#: functions.php:499
+msgid "Edit Filter"
+msgstr "Изменить фильтр"
+
+#: functions.php:500
+msgid "Update Filter"
+msgstr "Обновить фильтр"
+
+#: functions.php:501
+msgid "Add New Filter"
+msgstr "Добавить новый фильтр"
+
+#: functions.php:502
+msgid "New Filter"
+msgstr "Новый фильтр"
+
+#: functions.php:503
+msgid "Separate Filters with commas"
+msgstr "Разделить фильтры запятыми"
+
+#: functions.php:504
+msgid "Add or remove Filters"
+msgstr "Добавить или удалить фильтры"
+
+#: functions.php:505
+msgid "Choose from the most used Filters"
+msgstr "Выбрать часто используемые фильтры"
+
+#: functions.php:553 functions.php:564 inc/vc.php:1176
+msgid "Testimonials"
+msgstr "Рекомендации"
+
+#: functions.php:554
+msgid "testimonial"
+msgstr "рекомендация"
+
+#: functions.php:556
+msgid "Add New Testimonial"
+msgstr "Добавить новую рекомендацию"
+
+#: functions.php:557
+msgid "Edit Testimonial"
+msgstr "Изменить рекомендацию"
+
+#: functions.php:558
+msgid "New Testimonial"
+msgstr "Новая рекомендация"
+
+#: functions.php:559
+msgid "View Testimonial"
+msgstr "Просмотреть рекомендацию"
+
+#: functions.php:560
+msgid "Search Testimonials"
+msgstr "Искать рекомендации"
+
+#: functions.php:561
+msgid "No testimonials found"
+msgstr "Рекомендации не найдены"
+
+#: functions.php:562
+msgid "No testimonials found in Trash"
+msgstr "В мусорке рекомендации не найдены"
+
+#: functions.php:563
+msgid "Parent testimonial:"
+msgstr "Родительская рекомендация:"
+
+#: functions.php:602 functions.php:603 functions.php:613
+msgid "Team"
+msgstr "Команда"
+
+#: functions.php:605
+msgid "Add New Team Member"
+msgstr "Добавить нового члена команды"
+
+#: functions.php:606
+msgid "Edit Team Member"
+msgstr "Изменить члена команды"
+
+#: functions.php:607
+msgid "New Team Member"
+msgstr "Новый член команды"
+
+#: functions.php:608
+msgid "View Team Member"
+msgstr "Просмотр члена команды"
+
+#: functions.php:609
+msgid "Search Team Members"
+msgstr "Искать членов команды"
+
+#: functions.php:610
+msgid "No Team Members found"
+msgstr "Членов команды не найдено"
+
+#: functions.php:611
+msgid "No Team Members found in Trash"
+msgstr "В мусорке члены команды не найдены"
+
+#: functions.php:612
+msgid "Parent member:"
+msgstr "Родительский член команды:"
+
+#: header-simple.php:27 header.php:27
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: header.php:151 searchform.php:12
+msgid "Search"
+msgstr "Поиск"
+
+#: header.php:167
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/class-tgm-plugin-activation.php:226 inc/tgmpa.php:88
+msgid "Install Required Plugins"
+msgstr "Установить необходимые плагины"
+
+#: inc/class-tgm-plugin-activation.php:227 inc/tgmpa.php:89
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/class-tgm-plugin-activation.php:228 inc/tgmpa.php:90
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/class-tgm-plugin-activation.php:229
+msgid "Something went wrong."
+msgstr "Что-то пошло не так."
+
+#: inc/class-tgm-plugin-activation.php:230 inc/tgmpa.php:92
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Для этой темы требуется следующие плагины: %1$s."
+msgstr[1] "Для этой темы требуется следующий плагин: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:231 inc/tgmpa.php:93
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] "Эта тема рекомендует следующие плагины: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:232 inc/tgmpa.php:94
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Извините, но у вас нет правильных разрешений на установку %s плагина. "
+"Обратитесь к администратору этого сайта за помощью по установке плагина."
+msgstr[1] ""
+"Извините, но у вас нет правильных разрешений на установку %s плагинов. "
+"Обратитесь к администратору этого сайта за помощью по установке плагинов."
+
+#: inc/class-tgm-plugin-activation.php:233 inc/tgmpa.php:95
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий обязательный плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие обязательные плагины в настоящее время неактивны: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:234 inc/tgmpa.php:96
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендованный плагин в настоящее время неактивен: %1$s."
+msgstr[1] ""
+"Следующие рекомендованные плагины в настоящее время неактивны: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:235 inc/tgmpa.php:97
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Извините, но у вас нет правильных разрешений для активации плагина %s. "
+"Обратитесь к администратору этого сайта за помощью по активации плагина."
+msgstr[1] ""
+"Извините, но у вас нет правильных разрешений для активации плагинов %s. "
+"Обратитесь к администратору этого сайта за помощью по активации плагинов."
+
+#: inc/class-tgm-plugin-activation.php:236 inc/tgmpa.php:98
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Следующий плагин необходимо обновить до последней версии, чтобы обеспечить "
+"максимальную совместимость с этой темой: %1$s."
+msgstr[1] ""
+"Следующие плагины необходимо обновить до последней версии, чтобы обеспечить "
+"максимальную совместимость с этой темой: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:237 inc/tgmpa.php:99
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Извините, но у вас нет необходимых разрешений для обновления плагина %s. "
+"Обратитесь к администратору этого сайта за помощью по обновлению плагина."
+msgstr[1] ""
+"Извините, но у вас нет необходимых разрешений для обновления плагинов %s. "
+"Обратитесь к администратору этого сайта за помощью по обновлению плагинов."
+
+#: inc/class-tgm-plugin-activation.php:238 inc/tgmpa.php:100
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+
+#: inc/class-tgm-plugin-activation.php:239
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+
+#: inc/class-tgm-plugin-activation.php:240 inc/tgmpa.php:102
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установщику необходимых плагинов"
+
+#: inc/class-tgm-plugin-activation.php:241
+msgid "Return to the dashboard"
+msgstr "Вернуться на панель инструментов"
+
+#: inc/class-tgm-plugin-activation.php:242
+#: inc/class-tgm-plugin-activation.php:2054 inc/tgmpa.php:103
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: inc/class-tgm-plugin-activation.php:243
+#: inc/class-tgm-plugin-activation.php:1740
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин был успешно активирован:"
+msgstr[1] "Следующие плагины были успешно активированы:"
+
+#: inc/class-tgm-plugin-activation.php:244
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и успешно активированы. %1$s"
+
+#: inc/class-tgm-plugin-activation.php:245
+msgid "Dismiss this notice"
+msgstr "Закрыть это уведомление"
+
+#: inc/class-tgm-plugin-activation.php:589
+#: inc/class-tgm-plugin-activation.php:2272
+msgid "Return to the Dashboard"
+msgstr "Вернуться на панель инструментов"
+
+#: inc/class-tgm-plugin-activation.php:1267
+msgid "Private Repository"
+msgstr "Частное хранилище"
+
+#: inc/class-tgm-plugin-activation.php:1270
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованные"
+
+#: inc/class-tgm-plugin-activation.php:1275
+msgid "WordPress Repository"
+msgstr "Резервное копирование WordPress"
+
+#: inc/class-tgm-plugin-activation.php:1278
+msgid "Required"
+msgstr "Необходимые"
+
+#: inc/class-tgm-plugin-activation.php:1278
+msgid "Recommended"
+msgstr "Рекомендованные"
+
+#: inc/class-tgm-plugin-activation.php:1281
+msgid "Not Installed"
+msgstr "Не установленные"
+
+#: inc/class-tgm-plugin-activation.php:1283
+msgid "Installed But Not Activated"
+msgstr "Установлены, но не активированы"
+
+#: inc/class-tgm-plugin-activation.php:1399
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: inc/class-tgm-plugin-activation.php:1421
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: inc/class-tgm-plugin-activation.php:1464
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</"
+"a>"
+msgstr ""
+"Нет плагинов для установки или активации.<a href=\"%1$s\">Вернуться на "
+"панель инструментов</a>"
+
+#: inc/class-tgm-plugin-activation.php:1480
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/class-tgm-plugin-activation.php:1481
+msgid "Source"
+msgstr "Источник"
+
+#: inc/class-tgm-plugin-activation.php:1482
+#: option-tree/includes/ot-functions-docs-page.php:35
+msgid "Type"
+msgstr "Тип"
+
+#: inc/class-tgm-plugin-activation.php:1483
+#: woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr "Статус"
+
+#: inc/class-tgm-plugin-activation.php:1501
+msgid "Install"
+msgstr "Установить"
+
+#: inc/class-tgm-plugin-activation.php:1502
+#: option-tree/includes/ot-functions-admin.php:3778
+#: option-tree/includes/ot-functions-admin.php:3779
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/class-tgm-plugin-activation.php:1613
+msgid "No plugins are available to be installed at this time."
+msgstr "В настоящее время плагины недоступны для установки."
+
+#: inc/class-tgm-plugin-activation.php:1718
+msgid "No plugins are available to be activated at this time."
+msgstr "В настоящее время плагины недоступны для активации."
+
+#: inc/class-tgm-plugin-activation.php:2037
+msgid "Install package not available."
+msgstr "Установочный пакет недоступен."
+
+#: inc/class-tgm-plugin-activation.php:2038
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Загрузка установочного пакета из <span class=\"code\">%s</span>&#8230;"
+
+#: inc/class-tgm-plugin-activation.php:2039
+msgid "Unpacking the package&#8230;"
+msgstr "Распаковка пакета&#8230;"
+
+#: inc/class-tgm-plugin-activation.php:2040
+msgid "Installing the plugin&#8230;"
+msgstr "Установка плагина&#8230;"
+
+#: inc/class-tgm-plugin-activation.php:2041
+msgid "Plugin install failed."
+msgstr "Ошибка при установке плагина."
+
+#: inc/class-tgm-plugin-activation.php:2042
+msgid "Plugin installed successfully."
+msgstr "Плагин успешно установлен."
+
+#: inc/class-tgm-plugin-activation.php:2053
+msgid "Plugin activation failed."
+msgstr "Ошибка активации плагина."
+
+#: inc/class-tgm-plugin-activation.php:2165
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#: inc/class-tgm-plugin-activation.php:2166
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s завершилась неудачей."
+
+#: inc/class-tgm-plugin-activation.php:2170
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Начинается процесс установки и активации. На некоторых хостах этот процесс "
+"может занять некоторое время, так что будьте терпеливы."
+
+#: inc/class-tgm-plugin-activation.php:2171
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и успешно активирован."
+
+#: inc/class-tgm-plugin-activation.php:2171
+#: inc/class-tgm-plugin-activation.php:2178
+msgid "Show Details"
+msgstr "Показать детали"
+
+#: inc/class-tgm-plugin-activation.php:2171
+#: inc/class-tgm-plugin-activation.php:2178
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: inc/class-tgm-plugin-activation.php:2172
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+#: inc/class-tgm-plugin-activation.php:2173
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:2177
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процесс установки начинается. На некоторых хостах этот процесс может занять "
+"некоторое время, так что будьте терпеливы."
+
+#: inc/class-tgm-plugin-activation.php:2178
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно."
+
+#: inc/class-tgm-plugin-activation.php:2179
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#: inc/class-tgm-plugin-activation.php:2180
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/customizer.php:48
+msgid "Main theme color"
+msgstr "Основной цвет темы"
+
+#: inc/customizer.php:58
+msgid "Color Settings"
+msgstr "Настройки цвета"
+
+#: inc/customizer.php:65 inc/meta-boxes.php:26 inc/meta-boxes.php:34
+#: inc/meta-boxes.php:65 inc/meta-boxes.php:73
+#: option-tree/includes/ot-functions-admin.php:3776
+msgid "Layout"
+msgstr "Макет"
+
+#: inc/customizer.php:75
+msgid "Select layout type"
+msgstr "Выберите тип макета"
+
+#: inc/customizer.php:91
+msgid "Select menu style"
+msgstr "Выбор стиля меню"
+
+#: inc/customizer.php:107
+msgid "Menu background color"
+msgstr "Цвет фона меню"
+
+#: inc/customizer.php:119
+msgid "Menu current element color"
+msgstr "Цвет текущего элемента меню"
+
+#: inc/customizer.php:131
+msgid "Display Tagline"
+msgstr "Отображать таглайн"
+
+#: inc/customizer.php:146
+msgid "Display Tagline below or next to logo"
+msgstr "Отображать таглайн ниже или рядом с логотипом"
+
+#: inc/extras.php:68
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/extras.php:684
+msgid "Author Name"
+msgstr "Имя автора"
+
+#: inc/extras.php:691
+msgid "Author URL"
+msgstr "URL-адрес автора"
+
+#: inc/extras.php:801 inc/extras.php:880
+msgid "Font variants"
+msgstr "Варианты шрифтов"
+
+#: inc/extras.php:812 inc/extras.php:891
+msgid "Font subsets"
+msgstr "Подмножества шрифтов"
+
+#: inc/extras.php:826
+msgid "Add to your font stack"
+msgstr "Добавьте в свой набор шрифтов"
+
+#: inc/extras.php:828
+msgid "Your fonts stack"
+msgstr "Стек ваших шрифтов"
+
+#: inc/extras.php:836 inc/extras.php:921
+#: option-tree/includes/ot-functions-admin.php:3424
+#: option-tree/includes/ot-functions-admin.php:3425
+#: option-tree/includes/ot-functions-admin.php:3493
+#: option-tree/includes/ot-functions-admin.php:3494
+#: option-tree/includes/ot-functions-admin.php:3656
+#: option-tree/includes/ot-functions-admin.php:3657
+#: option-tree/includes/ot-functions-admin.php:3722
+#: option-tree/includes/ot-functions-admin.php:3723
+#: option-tree/includes/ot-functions-admin.php:3781
+#: option-tree/includes/ot-functions-admin.php:3782
+#: option-tree/includes/ot-functions-admin.php:3850
+#: option-tree/includes/ot-functions-admin.php:3851
+#: option-tree/includes/ot-functions-admin.php:3984
+#: option-tree/includes/ot-functions-admin.php:3985
+msgid "Delete"
+msgstr "Удалить"
+
+#: inc/importer/parsers.php:42 inc/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr "При чтении файла WXR произошла ошибка"
+
+#: inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Подробная информация приведена выше. Импортер теперь попробует снова с "
+"другим парсером ..."
+
+#: inc/importer/parsers.php:67 inc/importer/parsers.php:72
+#: inc/importer/parsers.php:262 inc/importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Это не похоже на файл WXR, отсутствует / недействительный номер версии WXR"
+
+#: inc/importer/radium-importer.php:240
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+"Невозможно найти файл параметров импорта. Пожалуйста, попробуйте еще раз."
+
+#: inc/importer/radium-importer.php:312
+msgid "Widget Import file could not be found. Please try again."
+msgstr "Не удалось найти файл импорта виджета. Пожалуйста, попробуйте еще раз."
+
+#: inc/importer/radium-importer.php:348
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+"Не удалось прочитать данные импорта виджета. Пожалуйста, попробуйте другой "
+"файл."
+
+#: inc/importer/radium-importer.php:389
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr "Боковая панель не существует в теме (используется неактивная)"
+
+#: inc/importer/radium-importer.php:411
+msgid "Site does not support widget"
+msgstr "Сайт не поддерживает виджет"
+
+#: inc/importer/radium-importer.php:434
+msgid "Widget already exists"
+msgstr "Виджет уже существует"
+
+#: inc/importer/radium-importer.php:483
+msgid "Imported"
+msgstr "Импортировано"
+
+#: inc/importer/radium-importer.php:486
+msgid "Imported to Inactive"
+msgstr "Импортировано в неактивные"
+
+#: inc/importer/radium-importer.php:493
+msgid "No Title"
+msgstr "Без заголовка"
+
+#: inc/importer/wordpress-importer.php:134
+#: inc/importer/wordpress-importer.php:143
+#: inc/importer/wordpress-importer.php:194
+#: inc/importer/wordpress-importer.php:198
+#: inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr "Произошла ошибка."
+
+#: inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr "Файл не существует, попробуйте еще раз."
+
+#: inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr "Все сделано."
+
+#: inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr "Повеселись!"
+
+#: inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Не забудьте обновить пароли и роли импортированных пользователей."
+
+#: inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"Не удалось найти файл экспорта в <code>%s</code>. Вероятно, это вызвано "
+"проблемой прав доступа."
+
+#: inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Этот файл WXR (версия %s) может не поддерживаться этой версией импортера. "
+"Пожалуйста, подумайте об обновлении."
+
+#: inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Не удалось импортировать автора %s. Его сообщения будут отнесены к текущему "
+"пользователю."
+
+#: inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr "Назначить авторов"
+
+#: inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"Чтобы упростить редактирование и сохранение импортированного содержимого, вы "
+"можете переназначить автора импортированного элемента на существующего "
+"пользователя этого сайта. Например, вы можете импортировать все записи как "
+"записи <code>admin</code>."
+
+#: inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Если WordPress создает нового пользователя, новый пароль будет "
+"генерироваться случайным образом, а роль нового пользователя будет "
+"установлена как %s. Необходимо будет вручную изменить данные нового "
+"пользователя user&#8217;s."
+
+#: inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr "Импортировать вложения"
+
+#: inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr "Загрузка и импорт вложенных файлов"
+
+#: inc/importer/wordpress-importer.php:286
+#: woocommerce/single-product-reviews.php:72
+msgid "Submit"
+msgstr "Отправить"
+
+#: inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr "Импортировать автора:"
+
+#: inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr "или создать нового пользователя с именем входа:"
+
+#: inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr "в качестве нового пользователя:"
+
+#: inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr "назначить сообщения существующему пользователю:"
+
+#: inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr "или назначить сообщения существующему пользователю:"
+
+#: inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr "- Выбрать -"
+
+#: inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Не удалось создать нового пользователя для %s. Его сообщения будут отнесены "
+"к текущему пользователю."
+
+#: inc/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Не удалось импортировать категорию %s"
+
+#: inc/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Не удалось импортировать метку публикации %s"
+
+#: inc/importer/wordpress-importer.php:505
+#: inc/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Не удалось импортировать %s %s"
+
+#: inc/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+"Не удалось импортировать &#8220;%s&#8221;: Недопустимый тип сообщения %s"
+
+#: inc/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; уже существует."
+
+#: inc/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Не удалось импортировать %s &#8220;%s&#8221;"
+
+#: inc/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Элемент меню пропущен из-за отсутствия слага меню"
+
+#: inc/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Элемент меню пропущен из-за отсутствия слага меню: %s"
+
+#: inc/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr "Получение вложений не разрешено"
+
+#: inc/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr "Неверный тип файла"
+
+#: inc/importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr "Удаленный сервер не ответил"
+
+#: inc/importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Удаленный сервер возвратил ответ об ошибке %1$d %2$s"
+
+#: inc/importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr "Удаленный файл имеет неправильный размер"
+
+#: inc/importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr "Загружен файл нулевого размера"
+
+#: inc/importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Удаленный файл слишком велик, лимит %s"
+
+#: inc/importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr "Импорт WordPress"
+
+#: inc/importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"Доступна новая версия этого импортера. Обновите до версии %s, чтобы "
+"обеспечить совместимость с новыми файлами экспорта."
+
+#: inc/importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Привет! Загрузите файл WordPress eXtended RSS (WXR), и мы импортируем "
+"сообщения, страницы, комментарии, настраиваемые поля, категории и метки на "
+"этот сайт."
+
+#: inc/importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Выберите файл WXR (.xml) для загрузки, а затем нажмите Загрузить файл и "
+"импортировать."
+
+#: inc/megamenu.php:335
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (недействительный)"
+
+#: inc/megamenu.php:339
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (ожидает рассмотрения)"
+
+#: inc/megamenu.php:363
+msgid "Move up"
+msgstr "Переместить вверх"
+
+#: inc/megamenu.php:376
+msgid "Move down"
+msgstr "Переместить вниз"
+
+#: inc/megamenu.php:378 inc/megamenu.php:380
+msgid "Edit Menu Item"
+msgstr "Изменить пункт меню"
+
+#: inc/megamenu.php:389 inc/vc.php:39 inc/vc.php:710 inc/vc.php:939
+#: inc/vc.php:997
+msgid "URL"
+msgstr "URL-адрес"
+
+#: inc/megamenu.php:396
+msgid "Navigation Label"
+msgstr "Метка навигации"
+
+#: inc/megamenu.php:402
+msgid "Title Attribute"
+msgstr "Атрибут заголовка"
+
+#: inc/megamenu.php:409
+msgid "Open link in a new window/tab"
+msgstr "Открыть ссылку в новом окне / вкладке"
+
+#: inc/megamenu.php:414
+msgid "CSS Classes (optional)"
+msgstr "Классы CSS (опционально)"
+
+#: inc/megamenu.php:420
+msgid "Link Relationship (XFN)"
+msgstr "Связь ссылок (XFN)"
+
+#: inc/megamenu.php:426 option-tree/includes/ot-functions-admin.php:2808
+#: option-tree/includes/ot-functions-admin.php:2859
+#: option-tree/includes/ot-functions-docs-page.php:43
+#: option-tree/includes/ot-functions-docs-page.php:404
+#: option-tree/includes/ot-functions-docs-page.php:454
+msgid "Description"
+msgstr "Описание"
+
+#: inc/megamenu.php:428
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"Описание будет отображаться в меню, если текущая тема поддерживает его."
+
+#: inc/megamenu.php:440
+msgid "Enable megamenu"
+msgstr "Включить мегамену"
+
+#: inc/megamenu.php:447
+msgid "Element width"
+msgstr "Ширина элемента"
+
+#: inc/megamenu.php:450
+msgid "1/4 column"
+msgstr "1/4 столбца"
+
+#: inc/megamenu.php:451
+msgid "1 column"
+msgstr "1 столбец"
+
+#: inc/megamenu.php:452
+msgid "2 columns"
+msgstr "2 столбца"
+
+#: inc/megamenu.php:453
+msgid "3 columns"
+msgstr "3 столбца"
+
+#: inc/megamenu.php:454
+msgid "4 columns"
+msgstr "4 столбца"
+
+#: inc/megamenu.php:455
+msgid "5 columns"
+msgstr "5 столбцов"
+
+#: inc/megamenu.php:456
+msgid "6 columns"
+msgstr "6 столбцов"
+
+#: inc/megamenu.php:461
+msgid "Act as link or title"
+msgstr "Действовать как ссылка или название"
+
+#: inc/megamenu.php:464 option-tree/includes/ot-functions-admin.php:2797
+#: option-tree/includes/ot-functions-admin.php:2853
+#: option-tree/includes/ot-functions-admin.php:4710
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/megamenu.php:465 inc/vc.php:25 inc/vc.php:76 inc/vc.php:160
+#: inc/vc.php:240 inc/vc.php:325 inc/vc.php:409 inc/vc.php:431 inc/vc.php:547
+#: inc/vc.php:642 inc/vc.php:796 inc/vc.php:919 inc/vc.php:979 inc/vc.php:1070
+#: inc/vc.php:1197 inc/vc.php:1267 inc/vc.php:1417
+#: option-tree/includes/ot-functions-admin.php:3815
+#: option-tree/includes/ot-meta-box-api.php:223
+#: option-tree/includes/ot-settings-api.php:595
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/megamenu.php:466 option-tree/includes/ot-functions-admin.php:2232
+#: option-tree/includes/ot-functions-docs-page.php:269
+msgid "Text"
+msgstr "Текст"
+
+#: inc/megamenu.php:467
+msgid "Text with title"
+msgstr "Текст с заголовком"
+
+#: inc/megamenu.php:472
+msgid "Custom html text"
+msgstr "Пользовательский html-текст"
+
+#: inc/megamenu.php:482
+msgid "Hide on mobile navigation"
+msgstr "Скрыть в мобильной навигации"
+
+#: inc/megamenu.php:492
+#, php-format
+msgid "Original: %s"
+msgstr "Оригинал: %s"
+
+#: inc/megamenu.php:505
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/megamenu.php:506 woocommerce/myaccount/my-orders.php:75
+msgid "Cancel"
+msgstr "Отмена"
+
+#: inc/meta-boxes.php:27 inc/meta-boxes.php:66
+msgid ""
+"You can choose a sidebar from the list below. Sidebars can be created in the "
+"Theme Options and configured in the Appearance -> Widgets."
+msgstr ""
+"Вы можете выбрать боковую панель из списка ниже. Боковые панели могут быть "
+"созданы в разделе «Параметры темы» и настроены в «Внешний вид» -> «Виджеты»."
+
+#: inc/meta-boxes.php:81 option-tree/includes/ot-functions-admin.php:2731
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: inc/meta-boxes.php:86 option-tree/includes/ot-functions-admin.php:2736
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: inc/meta-boxes.php:91 option-tree/includes/ot-functions-admin.php:2741
+msgid "Full Width (no sidebar)"
+msgstr "Полная ширина (без боковой панели)"
+
+#: inc/meta-boxes.php:290
+msgid "Choose related items for this portfolio"
+msgstr "Выберите связанные элементы для этого портфолио"
+
+#: inc/meta-boxes.php:291
+msgid "Leave empty to use just recent items"
+msgstr "Оставьте поле пустым, чтобы использовать только последние элементы"
+
+#: inc/mini_cart.php:11 inc/woocommerce.php:233
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d позиция"
+msgstr[1] "%d позиций"
+
+#: inc/mini_cart.php:11 inc/woocommerce.php:233
+msgid "in the shopping cart"
+msgstr "в корзине"
+
+#: inc/mini_cart.php:41 inc/woocommerce.php:265
+#: woocommerce/cart/mini-cart.php:52
+msgid "No products in the cart."
+msgstr "Корзина пуста."
+
+#: inc/mini_cart.php:45 inc/woocommerce.php:337
+msgid "View Cart &rarr;"
+msgstr "Просмотреть корзину &rarr;"
+
+#: inc/mini_cart.php:46
+msgid "Checkout &rarr;"
+msgstr "Оформить покупки &rarr;"
+
+#: inc/pointers-help.php:58
+msgid "Theme Options Panel"
+msgstr "Панель параметров темы"
+
+#: inc/pointers-help.php:59
+msgid ""
+"Customize and setup theme using advanced Theme Options panel under "
+"Appearance menu."
+msgstr ""
+"Настройте и установите тему, используя расширенную панель параметров темы в "
+"меню «Внешний вид»."
+
+#: inc/shortcodes.php:132
+msgid "Sale!"
+msgstr "Скидка!"
+
+#: inc/shortcodes.php:135 inc/woocommerce.php:42
+#: postformats/searchproduct.php:26
+msgid "Sold Out"
+msgstr "Продано"
+
+#: inc/shortcodes.php:688 inc/template-tags.php:331 inc/template-tags.php:349
+#: postformats/masonry-gallery.php:33 postformats/masonry-quote.php:15
+#: postformats/masonry-standard.php:15 postformats/masonry-video.php:14
+msgid "By"
+msgstr ""
+
+#: inc/shortcodes.php:688 postformats/masonry-gallery.php:33
+#: postformats/masonry-quote.php:15 postformats/masonry-standard.php:15
+#: postformats/masonry-video.php:14
+msgid "on"
+msgstr "на"
+
+#: inc/shortcodes.php:693 postformats/content-gallery.php:40
+#: postformats/content-quote.php:33 postformats/content-standard.php:26
+#: postformats/content-video.php:24 postformats/masonry-gallery.php:42
+#: postformats/masonry-quote.php:24 postformats/masonry-standard.php:25
+#: postformats/masonry-video.php:23 postformats/searchpage.php:24
+#: postformats/searchpagemasonry.php:13 postformats/searchproduct.php:35
+msgid "Read More"
+msgstr "Читать далее"
+
+#: inc/shortcodes.php:1400 inc/woocommerce.php:291
+msgid "Share"
+msgstr "Поделиться"
+
+#: inc/shortcodes.php:1404 inc/woocommerce.php:297
+#: option-tree/includes/ot-functions-option-types.php:1624
+msgid "Twitter"
+msgstr "ОК"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старые записи"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:233
+msgid "Archive by category"
+msgstr "Архив по категориям"
+
+#: inc/template-tags.php:236
+msgid "Search results for"
+msgstr "Результаты поиска для"
+
+#: inc/template-tags.php:294
+msgid "Posts tagged"
+msgstr "Записей отмечено"
+
+#: inc/template-tags.php:299
+msgid "Articles posted by "
+msgstr "Статьи, опубликованные "
+
+#: inc/template-tags.php:302
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: inc/template-tags.php:307
+msgid "Page"
+msgstr "Страница"
+
+#: inc/template-tags.php:341 inc/template-tags.php:360
+msgid "With 0 comments"
+msgstr "С 0 комментариев"
+
+#: inc/template-tags.php:341 inc/template-tags.php:360
+msgid "With 1 comment"
+msgstr "С 1 комментарием"
+
+#: inc/template-tags.php:341 inc/template-tags.php:360
+#, php-format
+msgid "With % comments"
+msgstr "С % cкомментариями"
+
+#: inc/template-tags.php:341 inc/template-tags.php:360
+msgid "Comments are off"
+msgstr "Комментарии отключены"
+
+#: inc/template-tags.php:372 inc/template-tags.php:381
+#: option-tree/includes/ot-functions-admin.php:4756
+msgid "Quote"
+msgstr "Цитировать"
+
+#: inc/template-tags.php:388
+msgid "Name (ex. author, singer, actor)"
+msgstr "Имя (например, автор, певец, актер)"
+
+#: inc/template-tags.php:395 option-tree/includes/ot-functions-admin.php:4772
+msgid "Source URL"
+msgstr "URL-адрес источника"
+
+#: inc/template-tags.php:402 option-tree/includes/ot-functions-admin.php:4779
+msgid "Source Title (ex. book, song, movie)"
+msgstr "Заголовок источника (например, книга, песня, фильм)"
+
+#: inc/template-tags.php:409 option-tree/includes/ot-functions-admin.php:4786
+msgid "Source Date"
+msgstr "Дата источника"
+
+#: inc/template-tags.php:454
+msgid "Pingback:"
+msgstr "Отзыв:"
+
+#: inc/template-tags.php:454
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+#: inc/template-tags.php:463
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/tgmpa.php:91
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с плагином API."
+
+#: inc/tgmpa.php:101
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Активировать установленный плагин"
+msgstr[1] "Активировать установленные плагины"
+
+#: inc/tgmpa.php:104
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Все плагины установлены и успешно активированы. %s"
+
+#: inc/vc.php:15
+msgid "Image with caption"
+msgstr "Изображение с подписью"
+
+#: inc/vc.php:20
+msgid "Box with image and CSS animation"
+msgstr "Коробка с изображением и CSS-анимацией"
+
+#: inc/vc.php:21 inc/vc.php:72 inc/vc.php:150 inc/vc.php:230 inc/vc.php:321
+#: inc/vc.php:405 inc/vc.php:513 inc/vc.php:618 inc/vc.php:638 inc/vc.php:685
+#: inc/vc.php:706 inc/vc.php:792 inc/vc.php:851 inc/vc.php:915 inc/vc.php:973
+#: inc/vc.php:1029 inc/vc.php:1066 inc/vc.php:1135 inc/vc.php:1180
+#: inc/vc.php:1247 inc/vc.php:1339 inc/vc.php:1406 inc/vc.php:1444
+#: inc/vc.php:1464
+msgid "Trizzy"
+msgstr "Trizzy"
+
+#: inc/vc.php:27
+msgid "Enter text which will be used as box title"
+msgstr "Введите текст, который будет использоваться в качестве заголовка окна"
+
+#: inc/vc.php:28
+msgid "Men's Shirts"
+msgstr "Мужские рубашки"
+
+#: inc/vc.php:32 inc/vc.php:332
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: inc/vc.php:33
+msgid "Shows up on hover"
+msgstr "Показывает при наведении"
+
+#: inc/vc.php:35
+msgid "25% Off Summer Styles"
+msgstr "Летние 25% скидки"
+
+#: inc/vc.php:40
+msgid "Where box should link"
+msgstr "Где поле должно содержать ссылку"
+
+#: inc/vc.php:45
+msgid "Select image for the box"
+msgstr "Выберите изображение для окна"
+
+#: inc/vc.php:48 inc/vc.php:342
+msgid "Select image from media library."
+msgstr "Выберите изображение из медиатеки."
+
+#: inc/vc.php:67
+msgid "Headline"
+msgstr "Заголовок"
+
+#: inc/vc.php:70
+msgid "Header with horizontal line"
+msgstr "Заголовок с горизонтальной линией"
+
+#: inc/vc.php:78
+msgid "Enter text which will be used as title"
+msgstr "Введите текст, который будет использоваться в качестве заголовка"
+
+#: inc/vc.php:82
+msgid "Top margin"
+msgstr "Верхнее поле"
+
+#: inc/vc.php:97
+msgid "Choose top margin (in px)"
+msgstr "Выберите верхнее поле (в пикселях)"
+
+#: inc/vc.php:101
+msgid "Bottom margin"
+msgstr "Нижнее поле"
+
+#: inc/vc.php:116
+msgid "Choose bottom margin (in px)"
+msgstr "Выберите нижнее поле (в пикселях)"
+
+#: inc/vc.php:120
+msgid "Clearfix after?"
+msgstr "Clearfix после?"
+
+#: inc/vc.php:122
+msgid ""
+"Add clearfix after headline, you might want to disable it for some elements, "
+"like the recent products carousel."
+msgstr ""
+"Добавьте clearfix после заголовка, вы можете отключить его для некоторых "
+"элементов, например, карусель недавно просмотренных продуктов."
+
+#: inc/vc.php:124 inc/vc.php:821 inc/vc.php:881
+msgid "Yes, please"
+msgstr "Да, пожалуйста"
+
+#: inc/vc.php:125 inc/vc.php:820 inc/vc.php:880
+msgid "No, thank you"
+msgstr "Нет, спасибо"
+
+#: inc/vc.php:146
+msgid "Recent Products"
+msgstr "Недавно просмотренные продукты"
+
+#: inc/vc.php:149
+msgid "Carousel with products"
+msgstr "Карусель с продуктами"
+
+#: inc/vc.php:154 inc/vc.php:234 inc/vc.php:425 inc/vc.php:541 inc/vc.php:1191
+msgid "Order by"
+msgstr "Сортировать по"
+
+#: inc/vc.php:157 inc/vc.php:237 inc/vc.php:428 inc/vc.php:544 inc/vc.php:1194
+#: woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr "Дата"
+
+#: inc/vc.php:158 inc/vc.php:238 inc/vc.php:429 inc/vc.php:545 inc/vc.php:1195
+#: option-tree/includes/ot-functions-docs-page.php:32
+msgid "ID"
+msgstr "ID"
+
+#: inc/vc.php:159 inc/vc.php:239 inc/vc.php:430 inc/vc.php:546 inc/vc.php:1196
+msgid "Author"
+msgstr "Автор"
+
+#: inc/vc.php:161 inc/vc.php:241 inc/vc.php:432 inc/vc.php:548 inc/vc.php:1198
+msgid "Modified"
+msgstr "Измененные"
+
+#: inc/vc.php:162 inc/vc.php:242 inc/vc.php:433 inc/vc.php:549 inc/vc.php:1199
+msgid "Random"
+msgstr "В случайном порядке"
+
+#: inc/vc.php:163 inc/vc.php:243 inc/vc.php:434 inc/vc.php:550 inc/vc.php:1200
+msgid "Comment count"
+msgstr "Количество комментариев"
+
+#: inc/vc.php:164 inc/vc.php:244 inc/vc.php:435 inc/vc.php:551 inc/vc.php:1201
+msgid "Menu order"
+msgstr "Порядок меню"
+
+#: inc/vc.php:169 inc/vc.php:249 inc/vc.php:440 inc/vc.php:556 inc/vc.php:1206
+#: woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr "Порядок"
+
+#: inc/vc.php:172 inc/vc.php:252 inc/vc.php:443 inc/vc.php:559 inc/vc.php:1209
+msgid "Descending"
+msgstr "По убыванию"
+
+#: inc/vc.php:173 inc/vc.php:253 inc/vc.php:444 inc/vc.php:560 inc/vc.php:1210
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: inc/vc.php:178 inc/vc.php:258 inc/vc.php:449 inc/vc.php:519 inc/vc.php:855
+#: inc/vc.php:1184
+msgid "Elements to show"
+msgstr "Элементы для показа"
+
+#: inc/vc.php:199 inc/vc.php:470
+msgid "Products"
+msgstr "Продуктов"
+
+#: inc/vc.php:204 inc/vc.php:475
+msgid "Select products, leave empty to use all."
+msgstr "Выберите продукты, оставьте пустым, чтобы использовать все."
+
+#: inc/vc.php:208 inc/vc.php:479
+msgid "Products categories"
+msgstr "Категории продуктов"
+
+#: inc/vc.php:211
+msgid "Select categories from which products will be taken."
+msgstr "Выберите категории, из которых будут взяты товары."
+
+#: inc/vc.php:226
+msgid "Recent Portfolio"
+msgstr "Недавние портфолио"
+
+#: inc/vc.php:229
+msgid "Carousel with portfolio items "
+msgstr "Карусель с элементами портфолио "
+
+#: inc/vc.php:276
+msgid "Potfolio items to Include"
+msgstr "Элементы портфолио для включения"
+
+#: inc/vc.php:281
+msgid "Select items, leave empty to use all."
+msgstr "Выберите элементы, оставьте пустым, чтобы использовать все."
+
+#: inc/vc.php:285
+msgid "Potfolio items to Exclude"
+msgstr "Элементы портфолио для исключения"
+
+#: inc/vc.php:290
+msgid "Select items to exclude from list."
+msgstr "Выберите элементы для исключения из списка."
+
+#: inc/vc.php:294
+msgid "Portfolio filters"
+msgstr "Фильтры портфолио"
+
+#: inc/vc.php:297
+msgid "Select categories from which portfolio items will be taken."
+msgstr "Выберите категории, из которых будут сделаны портфолио."
+
+#: inc/vc.php:317
+msgid "Parallax Banner"
+msgstr "Parallax баннер"
+
+#: inc/vc.php:320
+msgid "Parallax banner"
+msgstr "Parallax баннер"
+
+#: inc/vc.php:327 inc/vc.php:644 inc/vc.php:798 inc/vc.php:921 inc/vc.php:1072
+msgid "Enter text which will be used as title."
+msgstr "Введите текст, который будет использоваться в качестве заголовка."
+
+#: inc/vc.php:328
+msgid "End of season sale "
+msgstr "Конец сезонных скидок "
+
+#: inc/vc.php:334
+msgid "Enter text which will be used as subtitle."
+msgstr "Введите текст, который будет использоваться в качестве подзаголовка."
+
+#: inc/vc.php:335
+#, php-format
+msgid "Up to 35% off Women’s Denim"
+msgstr "До 35% oскидка на женскую одежду"
+
+#: inc/vc.php:339 option-tree/includes/ot-functions-admin.php:667
+#: option-tree/includes/ot-functions-admin.php:2786
+#: option-tree/includes/ot-functions-admin.php:2847
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/vc.php:346
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: inc/vc.php:349
+msgid "Select custom background color for parallax."
+msgstr "Выберите цвет фона для Parallax'а."
+
+#: inc/vc.php:354
+msgid "Opacity"
+msgstr "Непрозрачность"
+
+#: inc/vc.php:372
+msgid "Height in px"
+msgstr "Высота в px"
+
+#: inc/vc.php:374 inc/vc.php:567
+msgid "Type just a number"
+msgstr "Введите только число"
+
+#: inc/vc.php:379 inc/vc.php:487 inc/vc.php:592 inc/vc.php:826 inc/vc.php:886
+#: inc/vc.php:945 inc/vc.php:1003 inc/vc.php:1040 inc/vc.php:1109
+#: inc/vc.php:1310 inc/vc.php:1385 inc/vc.php:1428
+msgid "From Visual Composer"
+msgstr "Из Visual Composer"
+
+#: inc/vc.php:401
+msgid "Products vertical list"
+msgstr "Вертикальный список продуктов"
+
+#: inc/vc.php:404
+msgid "List of products with thumbnails"
+msgstr "Список продуктов с эскизами"
+
+#: inc/vc.php:411
+msgid "Enter text which will be used title."
+msgstr "Введите текст, который будет использован в названии."
+
+#: inc/vc.php:415
+msgid "Type of list"
+msgstr "Тип списка"
+
+#: inc/vc.php:418
+msgid "Best Selling"
+msgstr "Лучшие продажи"
+
+#: inc/vc.php:419
+msgid "Top Rated"
+msgstr "Самые популярные"
+
+#: inc/vc.php:420 inc/vc.php:1255
+msgid "Featured"
+msgstr "Избранные"
+
+#: inc/vc.php:482
+msgid ""
+"Select categories to populate posts from. Leave empty to choose from all"
+msgstr ""
+"Выберите категории для заполнения записей. Оставьте пустым, чтобы выбрать из "
+"всех"
+
+#: inc/vc.php:509
+msgid "Recent blog posts"
+msgstr "Недавние сообщения в блоге"
+
+#: inc/vc.php:512
+msgid "Recent posts list"
+msgstr "Список последних записей"
+
+#: inc/vc.php:526
+msgid "In how many columns will be post displayed"
+msgstr "В каком количестве столбцов будет отображаться сообщение"
+
+#: inc/vc.php:532
+msgid "Masonry mode"
+msgstr "(Masonry mode) Режим каменной кладки"
+
+#: inc/vc.php:535
+msgid "Disable"
+msgstr "Отключить"
+
+#: inc/vc.php:536
+msgid "Enable"
+msgstr "Включить"
+
+#: inc/vc.php:565
+msgid "Number of words from content to show below thumbnail"
+msgstr "Количество слов из содержания для показа снизу эскиза"
+
+#: inc/vc.php:572
+msgid "Exclude posts, leave empty to not exclude anything"
+msgstr "Исключить сообщения, оставьте поле пустым, чтобы не исключать ничего"
+
+#: inc/vc.php:580
+msgid "Show only this categories"
+msgstr "Показать только эти категории"
+
+#: inc/vc.php:586
+msgid "Show only this tags"
+msgstr "Показать только эти метки"
+
+#: inc/vc.php:613
+msgid "Skills Box"
+msgstr "Скилл бокс"
+
+#: inc/vc.php:624 inc/vc.php:692
+msgid "Extra class name"
+msgstr "Дополнительное название класса"
+
+#: inc/vc.php:626 inc/vc.php:694
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"Если вы хотите по-разному оформить определенный элемент контента, "
+"используйте это поле для добавления имени класса, а затем ссылайтесь на него "
+"в своем файле css."
+
+#: inc/vc.php:633
+msgid "Skill bar"
+msgstr "Скилл панель"
+
+#: inc/vc.php:648
+msgid "Skill Level"
+msgstr "Скилл уровень"
+
+#: inc/vc.php:681
+msgid "Social Icons"
+msgstr "Социальные кнопки"
+
+#: inc/vc.php:701
+msgid "Social icon"
+msgstr "Социальная кнопка"
+
+#: inc/vc.php:712
+msgid "Where icon will link."
+msgstr "Где значок будет ссылка."
+
+#: inc/vc.php:716
+msgid "Social service"
+msgstr "Социальный сервис"
+
+#: inc/vc.php:754
+msgid "Icon size"
+msgstr "Размер значка"
+
+#: inc/vc.php:788
+msgid "Count up box"
+msgstr "Счетчик"
+
+#: inc/vc.php:791
+msgid "Box with animated number's counting"
+msgstr "Бокс с анимированным подсчетом чисел"
+
+#: inc/vc.php:803 inc/vc.php:926 inc/vc.php:1077 inc/vc.php:1373
+#: inc/vc.php:1590
+msgid "Icon"
+msgstr "Значок"
+
+#: inc/vc.php:810 option-tree/includes/ot-functions-admin.php:3673
+msgid "Value"
+msgstr "Значение"
+
+#: inc/vc.php:812
+msgid "Only number (for example 2,147)."
+msgstr "Только число (например 2,147)."
+
+#: inc/vc.php:816
+msgid "Colored box?"
+msgstr "Цветной бокс?"
+
+#: inc/vc.php:818
+msgid "If selected to \"yes\", box will be in current main color."
+msgstr "Если выбрано «да», поле будет в текущем основном цвете."
+
+#: inc/vc.php:848
+msgid "Team section"
+msgstr "Секция команды"
+
+#: inc/vc.php:862
+msgid "In how many columns elements will be displayed"
+msgstr "В скольких столбцах будут отображаться элементы"
+
+#: inc/vc.php:868
+msgid "Include this members"
+msgstr "Включить этих членов"
+
+#: inc/vc.php:876
+msgid "Link to single member page?"
+msgstr "Ссылка на единственную страницу участника?"
+
+#: inc/vc.php:878
+msgid "If selected, image will link to the single team."
+msgstr "Если выбрано, изображение будет ссылаться на одну команду."
+
+#: inc/vc.php:911
+msgid "Icon box"
+msgstr "Значок бокса"
+
+#: inc/vc.php:914
+msgid "Text box with icon"
+msgstr "Текст бокса со значком"
+
+#: inc/vc.php:933 inc/vc.php:985 inc/vc.php:1084 inc/vc.php:1139
+#: inc/vc.php:1292 inc/vc.php:1423
+msgid "Content"
+msgstr "Содержание"
+
+#: inc/vc.php:935 inc/vc.php:987
+msgid "Enter content of the box."
+msgstr "Введите содержимое поля."
+
+#: inc/vc.php:941
+msgid "Where should it link?."
+msgstr "Где он должен быть связан?."
+
+#: inc/vc.php:969
+msgid "Text banner box"
+msgstr "Бокс Текстовый баннер"
+
+#: inc/vc.php:972
+msgid "Call to action banner box"
+msgstr "Бокс Баннер с призывом к действию"
+
+#: inc/vc.php:981
+msgid ""
+"Enter text which will be used as title. Leave blank if no title is needed."
+msgstr ""
+"Введите текст, который будет использоваться в качестве заголовка. Оставьте "
+"поле пустым, если заголовок не требуется."
+
+#: inc/vc.php:991 inc/vc.php:1304
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: inc/vc.php:993
+msgid "Text on the button on the right side of banner"
+msgstr "Текст на кнопке с правой стороны баннера"
+
+#: inc/vc.php:999
+msgid "Where button links."
+msgstr "Куда ссылается кнопка."
+
+#: inc/vc.php:1025
+msgid "Client logos carousel"
+msgstr "Карусель логотипов клиентов"
+
+#: inc/vc.php:1028
+msgid "Carousel with logos"
+msgstr "Карусель с логотипами"
+
+#: inc/vc.php:1033
+msgid "Clients logos"
+msgstr "Лого клиентов"
+
+#: inc/vc.php:1036
+msgid "Select images from media library."
+msgstr "Выберите изображения из медиатеки."
+
+#: inc/vc.php:1062
+msgid "Content box"
+msgstr "Поле Содержание"
+
+#: inc/vc.php:1065
+msgid "Animated content box"
+msgstr "Поле с анимированным содержимым"
+
+#: inc/vc.php:1089
+msgid "URL of the box"
+msgstr "URL-адрес поля"
+
+#: inc/vc.php:1091 inc/vc.php:1269 inc/vc.php:1276
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+"Введите текст, который будет использоваться в качестве заголовка виджета. "
+"Оставьте поле пустым, если заголовок не требуется."
+
+#: inc/vc.php:1096
+msgid "Animation effect"
+msgstr "Анимационный эффект"
+
+#: inc/vc.php:1132
+msgid "Notification box"
+msgstr "Окно уведомлений"
+
+#: inc/vc.php:1141
+msgid "Enter message content."
+msgstr "Введите содержимое сообщения."
+
+#: inc/vc.php:1146
+msgid "Box type"
+msgstr "Тип поля"
+
+#: inc/vc.php:1179
+msgid "List of testimonials"
+msgstr "Список рекомендаций"
+
+#: inc/vc.php:1215
+msgid "Include this testimonials"
+msgstr "Включите эту рекомендацию"
+
+#: inc/vc.php:1223
+msgid "Exclude this testimonials"
+msgstr "Исключить эти рекомендации"
+
+#: inc/vc.php:1243 inc/vc.php:1246
+msgid "Pricing table"
+msgstr "Таблица цен"
+
+#: inc/vc.php:1251
+msgid "Type of table"
+msgstr "Тип таблицы"
+
+#: inc/vc.php:1254 option-tree/includes/ot-functions-docs-page.php:52
+msgid "Standard"
+msgstr "Стандартный"
+
+#: inc/vc.php:1260 inc/vc.php:1359
+msgid "Custom color"
+msgstr "Пользовательский цвет"
+
+#: inc/vc.php:1262
+msgid "Select custom background color for table."
+msgstr "Выберите цвет фона для таблицы."
+
+#: inc/vc.php:1273
+msgid "Currency"
+msgstr "Валюта"
+
+#: inc/vc.php:1280 woocommerce/cart/cart.php:27
+msgid "Price"
+msgstr "Цена"
+
+#: inc/vc.php:1286
+msgid "Per"
+msgstr "За"
+
+#: inc/vc.php:1294
+msgid "Put here simple UL list"
+msgstr "Поставьте здесь простой UL-список"
+
+#: inc/vc.php:1298
+msgid "Button URL"
+msgstr "URL кнопки"
+
+#: inc/vc.php:1335
+msgid "Button"
+msgstr "Кнопка"
+
+#: inc/vc.php:1338
+msgid "Just a button"
+msgstr "Просто кнопка"
+
+#: inc/vc.php:1343
+msgid "URL (Link)"
+msgstr "URL (ссылка)"
+
+#: inc/vc.php:1345
+msgid "Button link."
+msgstr "Ссылка на кнопку."
+
+#: inc/vc.php:1349
+msgid "Button color version"
+msgstr "Цветная версия кнопки"
+
+#: inc/vc.php:1352
+msgid "Current main color"
+msgstr "Текущий основной цвет"
+
+#: inc/vc.php:1353
+msgid "Gray"
+msgstr "Серый"
+
+#: inc/vc.php:1354
+msgid "Dark"
+msgstr "Темный"
+
+#: inc/vc.php:1364
+msgid "Icon color"
+msgstr "Цвет значка"
+
+#: inc/vc.php:1367
+msgid "White"
+msgstr "Белый"
+
+#: inc/vc.php:1368
+msgid "Black"
+msgstr "Черный"
+
+#: inc/vc.php:1379
+msgid "Custom class"
+msgstr "Пользовательский класс"
+
+#: inc/vc.php:1381
+msgid "Optional"
+msgstr "Необязательно"
+
+#: inc/vc.php:1402
+msgid "Popup"
+msgstr "Popup"
+
+#: inc/vc.php:1405
+msgid "Modal Box"
+msgstr "Модальный бокс"
+
+#: inc/vc.php:1411
+msgid "Text on button"
+msgstr "Текст на кнопке"
+
+#: inc/vc.php:1413
+msgid "Button that opens popup"
+msgstr "Кнопка, открывающая всплывающее окно"
+
+#: inc/vc.php:1419
+msgid "Title for content"
+msgstr "Заголовок для контента"
+
+#: inc/vc.php:1440
+msgid "Royal Slider Gallery "
+msgstr "Галерея Royal Slider"
+
+#: inc/vc.php:1443
+msgid "Simple Image Gallery"
+msgstr "Галерея простых изображений"
+
+#: inc/vc.php:1449
+msgid "Select images"
+msgstr "Выбрать изображения"
+
+#: inc/vc.php:1460
+msgid "Magazine Lead "
+msgstr "Ведущий журнал"
+
+#: inc/vc.php:1463
+msgid "Lead of Featured post and side post for magazine style page"
+msgstr "Ведущий пост и боковая статья для страницы в стиле журнала"
+
+#: inc/vc.php:1468
+msgid "Select ONLY ONE post for a Featured post"
+msgstr "Выберите ТОЛЬКО ОДИН пост для избранной публикации"
+
+#: inc/vc.php:1476
+msgid "Set 2 posts for a Featured side posts"
+msgstr "Установить 2 сообщения для избранных сообщений на боковой панели"
+
+#: inc/vc.php:1535 option-tree/includes/ot-functions-option-types.php:573
+#: option-tree/includes/ot-functions-option-types.php:631
+#: option-tree/includes/ot-functions-option-types.php:1229
+#: option-tree/includes/ot-functions-option-types.php:1284
+msgid "No Posts Found"
+msgstr "Записей не найдено"
+
+#: inc/widgets.php:106
+msgid "Recent posts"
+msgstr "Недавние Посты"
+
+#: inc/widgets.php:109
+msgid "Recent posts Title"
+msgstr "Названия недавних постов"
+
+#: inc/widgets.php:114
+msgid "Popular posts"
+msgstr "Популярные посты"
+
+#: inc/widgets.php:117
+msgid "Popular posts Title"
+msgstr "Названия популярных постов"
+
+#: inc/widgets.php:122
+msgid "Latest comments"
+msgstr "Последние комментарии"
+
+#: inc/widgets.php:125
+msgid "Latest comments Title"
+msgstr "Названия последних комментариев"
+
+#: inc/widgets.php:244
+msgid "There was a problem processing your submission."
+msgstr "При обработке вашей отправки возникла проблема."
+
+#: inc/widgets.php:245
+msgid "Join"
+msgstr "Присоединиться"
+
+#: inc/widgets.php:246
+msgid ""
+"Thank you for joining our mailing list. Please check your email for a "
+"confirmation link."
+msgstr ""
+"Спасибо, что присоединились к нашей рассылке. Проверьте свою электронную "
+"почту на ссылку для подтверждения."
+
+#: inc/widgets.php:247
+msgid "Newsletter."
+msgstr "Новостная рассылка."
+
+#: inc/widgets.php:248
+msgid "Displays a sign-up form for a MailChimp mailing list."
+msgstr "Отображает форму регистрации для почтовой рассылки MailChimp."
+
+#: inc/widgets.php:249
+msgid "Trizzy MailChimp List Signup"
+msgstr "Список регистрации Trizzy MailChimp"
+
+#: inc/widgets.php:289
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: inc/widgets.php:291
+msgid "Title :"
+msgstr "Название :"
+
+#: inc/widgets.php:295
+msgid "Description :"
+msgstr "Описание :"
+
+#: inc/widgets.php:299
+msgid "Select a Mailing List :"
+msgstr "Выберите список рассылки :"
+
+#: inc/widgets.php:311
+msgid "This is the list your users will be signing up for in your sidebar."
+msgstr ""
+"Это список, который ваши пользователи будут подписывать на боковой панели."
+
+#: inc/widgets.php:313
+msgid "Sign Up Button Text :"
+msgstr "Текст кнопки «Зарегистрироваться» :"
+
+#: inc/widgets.php:316
+msgid "Personal Information"
+msgstr "Личная информация"
+
+#: inc/widgets.php:317
+msgid ""
+"These fields won't (and shouldn't) be required. Should the widget form "
+"collect users' first and last names?"
+msgstr ""
+"Эти поля не будут (и не должны) быть обязательными. Должна ли форма виджета "
+"собирать имена и фамилии пользователей?"
+
+#: inc/widgets.php:320
+msgid "Collect first name."
+msgstr "Собрать имя."
+
+#: inc/widgets.php:323
+msgid "Collect last name."
+msgstr "Собрать фамилию."
+
+#: inc/widgets.php:325
+msgid "Notifications"
+msgstr "Оповещения"
+
+#: inc/widgets.php:326
+msgid ""
+"Use these fields to customize what your visitors see after they submit the "
+"form"
+msgstr ""
+"Используйте эти поля, чтобы настроить то, что видят ваши посетители после "
+"отправки формы"
+
+#: inc/widgets.php:328
+msgid "Success :"
+msgstr "Успешно :"
+
+#: inc/widgets.php:332
+msgid "Failure :"
+msgstr "Отказ :"
+
+#: inc/widgets.php:510
+msgid "First Name :"
+msgstr "Имя :"
+
+#: inc/widgets.php:517
+msgid "Last Name :"
+msgstr "Фамилия :"
+
+#: inc/woocommerce.php:146
+msgctxt "breadcrumb"
+msgid "Shop"
+msgstr "Магазин"
+
+#: inc/woocommerce.php:294
+#: option-tree/includes/ot-functions-option-types.php:1619
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/woocommerce.php:322
+#, php-format
+msgid "Added &quot;%s&quot; to your cart."
+msgstr "Добавлено &quot;%s&quot; в вашу корзину."
+
+#: inc/woocommerce.php:322
+msgid "&quot; and &quot;"
+msgstr "&quot; и &quot;"
+
+#: inc/woocommerce.php:325
+#, php-format
+msgid "&quot;%s&quot; was successfully added to your cart."
+msgstr "&quot;%s&quot; был успешно добавлен в вашу корзину."
+
+#: inc/woocommerce.php:333
+msgid "Continue Shopping &rarr;"
+msgstr "Продолжить покупки"
+
+#: inc/woocommerce.php:472 inc/woocommerce.php:501
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: inc/woocommerce.php:474 inc/woocommerce.php:503
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr "Результаты поиска: &ldquo;%s&rdquo;"
+
+#: inc/woocommerce.php:477 inc/woocommerce.php:506
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr "&nbsp;&ndash; Страница %s"
+
+#: inc/woocommerce.php:508
+#, php-format
+msgid "Category: %s"
+msgstr "Категория: %s"
+
+#: inc/woocommerce.php:510
+msgid "All products"
+msgstr "Все продукты"
+
+#: inc/woosearchbox.php:17
+msgid "Advanced Search"
+msgstr "Расширенный поиск"
+
+#: inc/woosearchbox.php:23
+msgid "Categories"
+msgstr "Категории"
+
+#: inc/woosearchbox.php:75
+msgid "Min price"
+msgstr "Минимальная цена"
+
+#: inc/woosearchbox.php:76
+msgid "Max price"
+msgstr "Максимальная Цена"
+
+#: inc/woosearchbox.php:77
+msgid "Price Range"
+msgstr "Ценовой диапазон"
+
+#: index.php:25 template-blogmasonry.php:25 template-blogstandard.php:27
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Архивы категорий: %s"
+
+#: index.php:28 template-blogmasonry.php:28 template-blogstandard.php:30
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Метки архивов: %s"
+
+#: index.php:35 template-blogmasonry.php:35 template-blogstandard.php:37
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Автор архивов: %s"
+
+#: index.php:43 template-blogmasonry.php:43 template-blogstandard.php:45
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Еженедельные архивы: %s"
+
+#: index.php:46 template-blogmasonry.php:46 template-blogstandard.php:48
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Ежемесячные архивы: %s"
+
+#: index.php:49 template-blogmasonry.php:49 template-blogstandard.php:51
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Ежегодные архивы: %s"
+
+#: option-tree/includes/ot-functions-admin.php:50
+#: option-tree/includes/ot-functions-admin.php:51
+#: option-tree/includes/ot-functions-admin.php:171
+#: option-tree/includes/ot-functions-admin.php:195
+#: option-tree/includes/ot-functions.php:284
+#: option-tree/includes/ot-ui-admin.php:80
+#: option-tree/includes/ot-ui-admin.php:104
+#: option-tree/includes/ot-ui-theme-options.php:34
+#: option-tree/includes/ot-ui-theme-options.php:35
+msgid "Theme Options"
+msgstr "Опции темы"
+
+#: option-tree/includes/ot-functions-admin.php:56
+#: option-tree/includes/ot-functions-admin.php:127
+#: option-tree/includes/ot-functions-admin.php:222
+#: option-tree/includes/ot-ui-admin.php:36
+#: option-tree/includes/ot-ui-admin.php:131
+#: option-tree/includes/ot-ui-theme-options.php:40
+msgid "Theme Options updated."
+msgstr "Параметры темы обновлены."
+
+#: option-tree/includes/ot-functions-admin.php:57
+#: option-tree/includes/ot-functions-admin.php:128
+#: option-tree/includes/ot-functions-admin.php:223
+#: option-tree/includes/ot-ui-admin.php:37
+#: option-tree/includes/ot-ui-admin.php:132
+#: option-tree/includes/ot-ui-theme-options.php:41
+msgid "Theme Options reset."
+msgstr "Сброс параметров темы."
+
+#: option-tree/includes/ot-functions-admin.php:58
+#: option-tree/includes/ot-functions-settings-page.php:94
+#: option-tree/includes/ot-functions-settings-page.php:133
+#: option-tree/includes/ot-ui-theme-options.php:42
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: option-tree/includes/ot-functions-admin.php:98
+msgid ""
+"The Theme Options UI Builder is being overridden by a custom file in your "
+"theme. Any changes you make via the UI Builder will not be saved."
+msgstr ""
+"Параметры пользовательского интерфейса параметров темы переопределяются "
+"специальным файлом в вашей теме. Любые изменения, внесенные с помощью UI "
+"Builder, не будут сохранены."
+
+#: option-tree/includes/ot-functions-admin.php:110
+#: option-tree/includes/ot-functions-admin.php:111
+#: option-tree/includes/ot-functions-docs-page.php:797
+#: option-tree/includes/ot-ui-admin.php:19
+#: option-tree/includes/ot-ui-admin.php:20
+msgid "OptionTree"
+msgstr "Дерево опций"
+
+#: option-tree/includes/ot-functions-admin.php:121
+#: option-tree/includes/ot-functions-admin.php:122
+#: option-tree/includes/ot-functions-admin.php:165
+#: option-tree/includes/ot-functions-admin.php:189
+#: option-tree/includes/ot-functions-docs-page.php:49
+#: option-tree/includes/ot-ui-admin.php:30
+#: option-tree/includes/ot-ui-admin.php:31
+#: option-tree/includes/ot-ui-admin.php:74
+#: option-tree/includes/ot-ui-admin.php:98
+msgid "Settings"
+msgstr "Настройки"
+
+#: option-tree/includes/ot-functions-admin.php:129
+#: option-tree/includes/ot-functions-admin.php:224
+#: option-tree/includes/ot-ui-admin.php:38
+#: option-tree/includes/ot-ui-admin.php:133
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: option-tree/includes/ot-functions-admin.php:135
+#: option-tree/includes/ot-ui-admin.php:44
+msgid "Theme Options UI"
+msgstr "Интерфейс параметров темы"
+
+#: option-tree/includes/ot-functions-admin.php:139
+#: option-tree/includes/ot-ui-admin.php:48
+msgid "Import"
+msgstr "Импорт"
+
+#: option-tree/includes/ot-functions-admin.php:143
+#: option-tree/includes/ot-ui-admin.php:52
+msgid "Export"
+msgstr "Экспорт"
+
+#: option-tree/includes/ot-functions-admin.php:147
+#: option-tree/includes/ot-functions-admin.php:177
+#: option-tree/includes/ot-functions-admin.php:201
+#: option-tree/includes/ot-ui-admin.php:56
+#: option-tree/includes/ot-ui-admin.php:86
+#: option-tree/includes/ot-ui-admin.php:110
+msgid "Layouts"
+msgstr "Макеты"
+
+#: option-tree/includes/ot-functions-admin.php:153
+#: option-tree/includes/ot-ui-admin.php:62
+msgid "Theme Options UI Builder"
+msgstr "Параметры темы UI Builder"
+
+#: option-tree/includes/ot-functions-admin.php:159
+#: option-tree/includes/ot-ui-admin.php:68
+msgid "Settings XML"
+msgstr "Настройки XML"
+
+#: option-tree/includes/ot-functions-admin.php:183
+#: option-tree/includes/ot-ui-admin.php:92
+msgid "Settings PHP File"
+msgstr "Файл настроек PHP"
+
+#: option-tree/includes/ot-functions-admin.php:207
+msgid "Layout Management"
+msgstr "Управление макетами"
+
+#: option-tree/includes/ot-functions-admin.php:216
+#: option-tree/includes/ot-functions-admin.php:217
+#: option-tree/includes/ot-ui-admin.php:125
+#: option-tree/includes/ot-ui-admin.php:126
+msgid "Documentation"
+msgstr "Документация"
+
+#: option-tree/includes/ot-functions-admin.php:230
+#: option-tree/includes/ot-ui-admin.php:139
+msgid "Creating Options"
+msgstr "Создание опций"
+
+#: option-tree/includes/ot-functions-admin.php:234
+#: option-tree/includes/ot-ui-admin.php:143
+msgid "Option Types"
+msgstr "Типы опций"
+
+#: option-tree/includes/ot-functions-admin.php:238
+#: option-tree/includes/ot-ui-admin.php:147
+msgid "Function References"
+msgstr "Ссылки на функции"
+
+#: option-tree/includes/ot-functions-admin.php:242
+#: option-tree/includes/ot-functions-admin.php:284
+#: option-tree/includes/ot-functions-settings-page.php:366
+#: option-tree/includes/ot-ui-admin.php:151
+#: option-tree/includes/ot-ui-admin.php:193
+msgid "Theme Mode"
+msgstr "Режим темы"
+
+#: option-tree/includes/ot-functions-admin.php:246
+#: option-tree/includes/ot-functions-admin.php:290
+#: option-tree/includes/ot-ui-admin.php:155
+#: option-tree/includes/ot-ui-admin.php:199
+msgid "Meta Boxes"
+msgstr "Мета поля"
+
+#: option-tree/includes/ot-functions-admin.php:250
+#: option-tree/includes/ot-ui-admin.php:159
+msgid "Code Examples"
+msgstr "Примеры кода"
+
+#: option-tree/includes/ot-functions-admin.php:254
+#: option-tree/includes/ot-ui-admin.php:163
+msgid "Layouts Overview"
+msgstr "Обзор макетов"
+
+#: option-tree/includes/ot-functions-admin.php:260
+#: option-tree/includes/ot-ui-admin.php:169
+msgid "Overview of available Theme Option fields."
+msgstr "Обзор доступных полей в Параметрах темы."
+
+#: option-tree/includes/ot-functions-admin.php:266
+#: option-tree/includes/ot-ui-admin.php:175
+msgid "Option types in alphabetical order & hooks to filter them."
+msgstr "Варианты типов в алфавитном порядке и хуки для их фильтрации."
+
+#: option-tree/includes/ot-functions-admin.php:272
+#: option-tree/includes/ot-ui-admin.php:181
+msgid "Function Reference:ot_get_option()"
+msgstr "Справочник функций:ot_get_option()"
+
+#: option-tree/includes/ot-functions-admin.php:278
+#: option-tree/includes/ot-ui-admin.php:187
+msgid "Function Reference:get_option_tree()"
+msgstr "Справочник функций:get_option_tree()"
+
+#: option-tree/includes/ot-functions-admin.php:296
+#: option-tree/includes/ot-ui-admin.php:205
+msgid "Code examples for front-end development."
+msgstr "Примеры кода для разработки интерфейсов."
+
+#: option-tree/includes/ot-functions-admin.php:302
+#: option-tree/includes/ot-ui-admin.php:211
+msgid "What's a layout anyhow?"
+msgstr "Что такое макет в любом случае?"
+
+#: option-tree/includes/ot-functions-admin.php:502
+msgid "The Colorpicker only allows valid hexadecimal values."
+msgstr "Colorpicker допускает только допустимые шестнадцатеричные значения."
+
+#: option-tree/includes/ot-functions-admin.php:652
+#: option-tree/includes/ot-functions-docs-page.php:374
+#: option-tree/includes/ot-functions-settings-page.php:170
+#: option-tree/ot-loader.php:747
+msgid "Send to OptionTree"
+msgstr "Отправить в Дерево опций"
+
+#: option-tree/includes/ot-functions-admin.php:653
+#: option-tree/includes/ot-functions-option-types.php:257
+#: option-tree/includes/ot-functions-option-types.php:2453
+msgid "Remove Media"
+msgstr "Удалить медиафайлы"
+
+#: option-tree/includes/ot-functions-admin.php:654
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr "Вы действительно хотите вернуться к настройкам по умолчанию?"
+
+#: option-tree/includes/ot-functions-admin.php:655
+msgid "You can't remove this! But you can edit the values."
+msgstr "Вы не можете удалить это! Но вы можете редактировать значения."
+
+#: option-tree/includes/ot-functions-admin.php:656
+msgid "Are you sure you want to remove this?"
+msgstr "Вы уверены, что хотите удалить это?"
+
+#: option-tree/includes/ot-functions-admin.php:657
+msgid "Are you sure you want to activate this layout?"
+msgstr "Вы уверены, что хотите активировать этот макет?"
+
+#: option-tree/includes/ot-functions-admin.php:658
+msgid "Sorry, you can't have settings three levels deep."
+msgstr "К сожалению, вы не можете иметь настройки третьего уровня."
+
+#: option-tree/includes/ot-functions-admin.php:659
+#: option-tree/includes/ot-functions-option-types.php:812
+msgid "Delete Gallery"
+msgstr "Удалить галерею"
+
+#: option-tree/includes/ot-functions-admin.php:660
+#: option-tree/includes/ot-functions-option-types.php:813
+msgid "Edit Gallery"
+msgstr "Изменить галерею"
+
+#: option-tree/includes/ot-functions-admin.php:661
+#: option-tree/includes/ot-functions-option-types.php:820
+msgid "Create Gallery"
+msgstr "Создать галерею"
+
+#: option-tree/includes/ot-functions-admin.php:662
+msgid "Are you sure you want to delete this Gallery?"
+msgstr "Вы уверены, что хотите удалить эту галерею?"
+
+#: option-tree/includes/ot-functions-admin.php:663
+msgid "Today"
+msgstr "Сегодня"
+
+#: option-tree/includes/ot-functions-admin.php:664
+msgid "Now"
+msgstr "Сейчас"
+
+#: option-tree/includes/ot-functions-admin.php:665
+msgid "Close"
+msgstr "Закрыть"
+
+#: option-tree/includes/ot-functions-admin.php:666
+msgid "Featured Image"
+msgstr "Популярные изображения"
+
+#: option-tree/includes/ot-functions-admin.php:716
+msgid "Option Tree"
+msgstr "Дерево опций"
+
+#: option-tree/includes/ot-functions-admin.php:853
+msgid "General"
+msgstr "Основные"
+
+#: option-tree/includes/ot-functions-admin.php:859
+msgid "Sample Text Field Label"
+msgstr "Пример маркировки текстового поля"
+
+#: option-tree/includes/ot-functions-admin.php:860
+msgid "Description for the sample text field."
+msgstr "Описание для текстового поля."
+
+#: option-tree/includes/ot-functions-admin.php:2102
+msgid "Settings updated."
+msgstr "Настройки обновлены."
+
+#: option-tree/includes/ot-functions-admin.php:2106
+msgid "Settings could not be saved."
+msgstr "Не удалось сохранить настройки."
+
+#: option-tree/includes/ot-functions-admin.php:2114
+msgid "Settings Imported."
+msgstr "Настройки импортированы."
+
+#: option-tree/includes/ot-functions-admin.php:2118
+msgid "Settings could not be imported."
+msgstr "Не удалось импортировать настройки."
+
+#: option-tree/includes/ot-functions-admin.php:2125
+msgid "Data Imported."
+msgstr "Данные импортированы."
+
+#: option-tree/includes/ot-functions-admin.php:2129
+msgid "Data could not be imported."
+msgstr "Не удалось импортировать данные."
+
+#: option-tree/includes/ot-functions-admin.php:2137
+msgid "Layouts Imported."
+msgstr "Импортированные макеты."
+
+#: option-tree/includes/ot-functions-admin.php:2141
+msgid "Layouts could not be imported."
+msgstr "Невозможно импортировать макеты."
+
+#: option-tree/includes/ot-functions-admin.php:2149
+msgid "Layouts Updated."
+msgstr "Макеты обновлены."
+
+#: option-tree/includes/ot-functions-admin.php:2153
+msgid "Layouts could not be updated."
+msgstr "Невозможно обновить макеты."
+
+#: option-tree/includes/ot-functions-admin.php:2157
+msgid "Layouts have been deleted."
+msgstr "Макеты удалены."
+
+#: option-tree/includes/ot-functions-admin.php:2163
+msgid "Layout activated."
+msgstr "Макет активирован."
+
+#: option-tree/includes/ot-functions-admin.php:2202
+#: option-tree/includes/ot-functions-docs-page.php:110
+msgid "Background"
+msgstr "Фон"
+
+#: option-tree/includes/ot-functions-admin.php:2203
+#: option-tree/includes/ot-functions-docs-page.php:113
+msgid "Category Checkbox"
+msgstr "Категория чекбокс"
+
+#: option-tree/includes/ot-functions-admin.php:2204
+#: option-tree/includes/ot-functions-docs-page.php:116
+msgid "Category Select"
+msgstr "Категория Выбора"
+
+#: option-tree/includes/ot-functions-admin.php:2205
+#: option-tree/includes/ot-functions-docs-page.php:119
+msgid "Checkbox"
+msgstr "Чекбокс"
+
+#: option-tree/includes/ot-functions-admin.php:2206
+msgid "Color Picker"
+msgstr "Подбор цвета"
+
+#: option-tree/includes/ot-functions-admin.php:2207
+#: option-tree/includes/ot-functions-docs-page.php:125
+msgid "CSS"
+msgstr "CSS"
+
+#: option-tree/includes/ot-functions-admin.php:2208
+#: option-tree/includes/ot-functions-docs-page.php:144
+msgid "Custom Post Type Checkbox"
+msgstr "Чекбокс Пользовательского типа сообщения"
+
+#: option-tree/includes/ot-functions-admin.php:2209
+#: option-tree/includes/ot-functions-docs-page.php:147
+msgid "Custom Post Type Select"
+msgstr "Выбор Пользовательского типа сообщения"
+
+#: option-tree/includes/ot-functions-admin.php:2210
+#: option-tree/includes/ot-functions-docs-page.php:150
+msgid "Date Picker"
+msgstr "Выбор даты"
+
+#: option-tree/includes/ot-functions-admin.php:2211
+#: option-tree/includes/ot-functions-docs-page.php:153
+msgid "Date Time Picker"
+msgstr "Выбор даты и времени"
+
+#: option-tree/includes/ot-functions-admin.php:2212
+#: option-tree/includes/ot-functions-admin.php:4670
+#: option-tree/includes/ot-functions-docs-page.php:156
+msgid "Gallery"
+msgstr "Галерея"
+
+#: option-tree/includes/ot-functions-admin.php:2213
+#: option-tree/includes/ot-functions-docs-page.php:159
+msgid "List Item"
+msgstr "Элемент списка"
+
+#: option-tree/includes/ot-functions-admin.php:2214
+#: option-tree/includes/ot-functions-docs-page.php:162
+msgid "Measurement"
+msgstr "Измерение"
+
+#: option-tree/includes/ot-functions-admin.php:2215
+#: option-tree/includes/ot-functions-docs-page.php:193
+msgid "Numeric Slider"
+msgstr "Числовой слайдер"
+
+#: option-tree/includes/ot-functions-admin.php:2216
+#: option-tree/includes/ot-functions-docs-page.php:196
+msgid "On/Off"
+msgstr "Вкл/выкл"
+
+#: option-tree/includes/ot-functions-admin.php:2217
+#: option-tree/includes/ot-functions-docs-page.php:199
+msgid "Page Checkbox"
+msgstr "Чекбокс страницы"
+
+#: option-tree/includes/ot-functions-admin.php:2218
+#: option-tree/includes/ot-functions-docs-page.php:202
+msgid "Page Select"
+msgstr "Выбор страницы"
+
+#: option-tree/includes/ot-functions-admin.php:2219
+#: option-tree/includes/ot-functions-docs-page.php:205
+msgid "Post Checkbox"
+msgstr "Чекбокс записи"
+
+#: option-tree/includes/ot-functions-admin.php:2220
+#: option-tree/includes/ot-functions-docs-page.php:208
+msgid "Post Select"
+msgstr "Выбор записи"
+
+#: option-tree/includes/ot-functions-admin.php:2221
+#: option-tree/includes/ot-functions-docs-page.php:211
+msgid "Radio"
+msgstr "Радио"
+
+#: option-tree/includes/ot-functions-admin.php:2222
+#: option-tree/includes/ot-functions-docs-page.php:214
+msgid "Radio Image"
+msgstr "Радио изображение"
+
+#: option-tree/includes/ot-functions-admin.php:2223
+#: option-tree/includes/ot-functions-docs-page.php:241
+msgid "Select"
+msgstr "Выбрать"
+
+#: option-tree/includes/ot-functions-admin.php:2224
+#: option-tree/includes/ot-functions-docs-page.php:244
+msgid "Sidebar Select"
+msgstr "Выбор боковой панели"
+
+#: option-tree/includes/ot-functions-admin.php:2225
+#: option-tree/includes/ot-functions-docs-page.php:248
+msgid "Slider"
+msgstr "Слайдер"
+
+#: option-tree/includes/ot-functions-admin.php:2226
+#: option-tree/includes/ot-functions-docs-page.php:251
+msgid "Social Links"
+msgstr "Социальные ссылки"
+
+#: option-tree/includes/ot-functions-admin.php:2227
+#: option-tree/includes/ot-functions-docs-page.php:254
+msgid "Tab"
+msgstr "Вкладка"
+
+#: option-tree/includes/ot-functions-admin.php:2228
+#: option-tree/includes/ot-functions-docs-page.php:257
+msgid "Tag Checkbox"
+msgstr "Метка чекбокса"
+
+#: option-tree/includes/ot-functions-admin.php:2229
+#: option-tree/includes/ot-functions-docs-page.php:260
+msgid "Tag Select"
+msgstr "Метка выбора"
+
+#: option-tree/includes/ot-functions-admin.php:2230
+#: option-tree/includes/ot-functions-docs-page.php:263
+msgid "Taxonomy Checkbox"
+msgstr "Чекбокс таксономии"
+
+#: option-tree/includes/ot-functions-admin.php:2231
+#: option-tree/includes/ot-functions-docs-page.php:266
+msgid "Taxonomy Select"
+msgstr "Выбор таксономии"
+
+#: option-tree/includes/ot-functions-admin.php:2233
+#: option-tree/includes/ot-functions-docs-page.php:272
+msgid "Textarea"
+msgstr "Текстовая область"
+
+#: option-tree/includes/ot-functions-admin.php:2234
+#: option-tree/includes/ot-functions-docs-page.php:331
+msgid "Textarea Simple"
+msgstr "Простая текстовая область"
+
+#: option-tree/includes/ot-functions-admin.php:2235
+#: option-tree/includes/ot-functions-docs-page.php:347
+msgid "Textblock"
+msgstr "Текстовый блок"
+
+#: option-tree/includes/ot-functions-admin.php:2236
+#: option-tree/includes/ot-functions-docs-page.php:350
+msgid "Textblock Titled"
+msgstr "Текстовый блок титула"
+
+#: option-tree/includes/ot-functions-admin.php:2237
+#: option-tree/includes/ot-functions-docs-page.php:353
+msgid "Typography"
+msgstr "Оформление"
+
+#: option-tree/includes/ot-functions-admin.php:2238
+#: option-tree/includes/ot-functions-docs-page.php:373
+msgid "Upload"
+msgstr "Загрузить"
+
+#: option-tree/includes/ot-functions-admin.php:2746
+msgid "Dual Sidebar"
+msgstr "Двойная боковая панель"
+
+#: option-tree/includes/ot-functions-admin.php:2751
+msgid "Left Dual Sidebar"
+msgstr "Левая двойная боковая панель"
+
+#: option-tree/includes/ot-functions-admin.php:2756
+msgid "Right Dual Sidebar"
+msgstr "Правая двойная боковая панель"
+
+#: option-tree/includes/ot-functions-admin.php:2923
+#: woocommerce/single-product-reviews.php:67
+msgid "Name"
+msgstr "Имя"
+
+#: option-tree/includes/ot-functions-admin.php:2924
+msgid "Enter the name of the social website."
+msgstr "Введите название соцсети."
+
+#: option-tree/includes/ot-functions-admin.php:2932
+msgid "Enter the text shown in the title attribute of the link."
+msgstr "Введите текст, указанный в атрибуте title ссылки."
+
+#: option-tree/includes/ot-functions-admin.php:2938
+#, php-format
+msgid ""
+"Enter a link to the profile or page on the social website. Remember to add "
+"the %s part to the front of the link."
+msgstr ""
+"Поставьте ссылку на профиль или страницу на социальном сайте. Не забудьте "
+"добавить часть %s в начало ссылки."
+
+#: option-tree/includes/ot-functions-admin.php:3421
+msgid "edit"
+msgstr "изменить"
+
+#: option-tree/includes/ot-functions-admin.php:3431
+msgid ""
+"<strong>Section Title</strong>: Displayed as a menu item on the Theme "
+"Options page."
+msgstr ""
+"<Strong>Название раздела</strong>: отображается как пункт меню на странице "
+"«Параметры темы»."
+
+#: option-tree/includes/ot-functions-admin.php:3439
+msgid ""
+"<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+"underscores allowed."
+msgstr ""
+"<strong>ID раздела</strong>: Уникальная буквенно-цифровая строка в нижнем "
+"регистре. Подчеркивание разрешено."
+
+#: option-tree/includes/ot-functions-admin.php:3500
+msgid ""
+"<strong>Label</strong>: Displayed as the label of a form element on the "
+"Theme Options page."
+msgstr ""
+"<Strong>Маркировка</strong>. Отображается как метка элемента формы на "
+"странице параметров темы."
+
+#: option-tree/includes/ot-functions-admin.php:3508
+#: option-tree/includes/ot-functions-admin.php:3737
+msgid ""
+"<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+"allowed."
+msgstr ""
+"<strong>ID</strong>: Уникальная строчная буквенно-цифровая строка, "
+"подчеркивание разрешено."
+
+#: option-tree/includes/ot-functions-admin.php:3516
+msgid ""
+"<strong>Type</strong>: Choose one of the available option types from the "
+"dropdown."
+msgstr ""
+"<strong>Тип</strong>: В раскрывающемся списке выберите один из доступных "
+"типов параметров."
+
+#: option-tree/includes/ot-functions-admin.php:3527
+msgid ""
+"<strong>Description</strong>: Enter a detailed description for the users to "
+"read on the Theme Options page, HTML is allowed. This is also where you "
+"enter content for both the Textblock & Textblock Titled option types."
+msgstr ""
+"<strong>Описание </strong>: Введите подробное описание для чтения "
+"пользователями на странице «Параметры темы», HTML-код разрешен. Здесь же вы "
+"вводите контент для обоих типов опций Textblock & Textblock Titled."
+
+#: option-tree/includes/ot-functions-admin.php:3535
+msgid ""
+"<strong>Choices</strong>: This will only affect the following option types: "
+"Checkbox, Radio, Select & Select Image."
+msgstr ""
+"<strong>Варианты</strong>: Это повлияет только на следующие типы параметров: "
+"Чекбокс, Радио, Выбрать и Выбрать изображение."
+
+#: option-tree/includes/ot-functions-admin.php:3540
+msgid "Add Choice"
+msgstr "Добавить выбор"
+
+#: option-tree/includes/ot-functions-admin.php:3546
+msgid ""
+"<strong>Settings</strong>: This will only affect the List Item option type."
+msgstr ""
+"<strong>Настройки</strong>: Это повлияет только на тип параметра списка "
+"позиций."
+
+#: option-tree/includes/ot-functions-admin.php:3551
+#: option-tree/includes/ot-functions-settings-page.php:93
+msgid "Add Setting"
+msgstr "Добавить настройку"
+
+#: option-tree/includes/ot-functions-admin.php:3557
+msgid ""
+"<strong>Standard</strong>: Setting the standard value for your option only "
+"works for some option types. Read the <code>OptionTree->Documentation</code> "
+"for more information on which ones."
+msgstr ""
+"<Strong>Стандарт</strong>: Установка стандартного значения для вашей опции "
+"работает только для некоторых типов параметров. Прочтите <code>Дерево опций-"
+"> Документация</code> для получения дополнительной информации о том, какие "
+"это параметры."
+
+#: option-tree/includes/ot-functions-admin.php:3565
+msgid ""
+"<strong>Rows</strong>: Enter a numeric value for the number of rows in your "
+"textarea. This will only affect the following option types: CSS, Textarea, & "
+"Textarea Simple."
+msgstr ""
+"<strong>Строки</strong>: Введите числовое значение для числа строк в вашем "
+"текстовом поле. Это повлияет только на следующие типы параметров: CSS, "
+"Текстовое поле и Простое текстовое поле."
+
+#: option-tree/includes/ot-functions-admin.php:3573
+msgid ""
+"<strong>Post Type</strong>: Add a comma separated list of post type like "
+"'post,page'. This will only affect the following option types: Custom Post "
+"Type Checkbox, & Custom Post Type Select."
+msgstr ""
+
+#: option-tree/includes/ot-functions-admin.php:3581
+msgid ""
+"<strong>Taxonomy</strong>: Add a comma separated list of any registered "
+"taxonomy like 'category,post_tag'. This will only affect the following "
+"option types: Taxonomy Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: option-tree/includes/ot-functions-admin.php:3589
+msgid ""
+"<strong>Min, Max, & Step</strong>: Add a comma separated list of options in "
+"the following format <code>0,100,1</code> (slide from <code>0-100</code> in "
+"intervals of <code>1</code>). The three values represent the minimum, "
+"maximum, and step options and will only affect the Numeric Slider option "
+"type."
+msgstr ""
+
+#: option-tree/includes/ot-functions-admin.php:3597
+msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
+msgstr ""
+
+#: option-tree/includes/ot-functions-admin.php:3605
+#, php-format
+msgid ""
+"<strong>Condition</strong>: Add a comma separated list (no spaces) of "
+"conditions in which the field will be visible, leave this setting empty to "
+"always show the field. In these examples, <code>value</code> is a "
+"placeholder for your condition, which can be in the form of %s."
+msgstr ""
+
+#: option-tree/includes/ot-functions-admin.php:3613
+msgid ""
+"<strong>Operator</strong>: Choose the logical operator to compute the result "
+"of the conditions."
+msgstr ""
+
+#: option-tree/includes/ot-functions-admin.php:3616
+#: option-tree/includes/ot-functions-docs-page.php:111
+#: option-tree/includes/ot-functions-docs-page.php:354
+msgid "and"
+msgstr "и"
+
+#: option-tree/includes/ot-functions-admin.php:3617
+msgid "or"
+msgstr "или"
+
+#: option-tree/includes/ot-functions-admin.php:3663
+#: option-tree/includes/ot-functions-docs-page.php:29
+msgid "Label"
+msgstr "Маркировка"
+
+#: option-tree/includes/ot-functions-admin.php:3683
+msgid "Image Source (Radio Image only)"
+msgstr "Источник изображения (только для радио изображения)"
+
+#: option-tree/includes/ot-functions-admin.php:3729
+msgid ""
+"<strong>Title</strong>: Displayed as a contextual help menu item on the "
+"Theme Options page."
+msgstr ""
+
+#: option-tree/includes/ot-functions-admin.php:3745
+msgid ""
+"<strong>Content</strong>: Enter the HTML content about this contextual help "
+"item displayed on the Theme Option page for end users to read."
+msgstr ""
+
+#: option-tree/includes/ot-functions-admin.php:4136
+msgid "New Layout"
+msgstr "Новый макет"
+
+#: option-tree/includes/ot-functions-admin.php:4719
+msgid "Link URL"
+msgstr "URL ссылки"
+
+#: option-tree/includes/ot-functions-admin.php:4726
+msgid "Link Title"
+msgstr "Заголовок ссылки"
+
+#: option-tree/includes/ot-functions-admin.php:4765
+msgid "Source Name (ex. author, singer, actor)"
+msgstr "Имя источника (например, автор, певец, актер)"
+
+#: option-tree/includes/ot-functions-admin.php:4816
+msgid "Video"
+msgstr "Видео"
+
+#: option-tree/includes/ot-functions-admin.php:4825
+#, php-format
+msgid ""
+"Embed video from services like Youtube, Vimeo, or Hulu. You can find a list "
+"of supported oEmbed sites in the %1$s. Alternatively, you could use the "
+"built-in %2$s shortcode."
+msgstr ""
+
+#: option-tree/includes/ot-functions-admin.php:4825
+#: option-tree/includes/ot-functions-admin.php:4864
+msgid "Wordpress Codex"
+msgstr "Кодекс Вордпресс"
+
+#: option-tree/includes/ot-functions-admin.php:4855
+msgid "Audio"
+msgstr "Аудио"
+
+#: option-tree/includes/ot-functions-admin.php:4864
+#, php-format
+msgid ""
+"Embed audio from services like SoundCloud and Rdio. You can find a list of "
+"supported oEmbed sites in the %1$s. Alternatively, you could use the built-"
+"in %2$s shortcode."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:30
+msgid ""
+"The Label field should be a short but descriptive block of text 100 "
+"characters or less with no HTML."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:33
+msgid ""
+"The ID field is a unique alphanumeric key used to differentiate each theme "
+"option (underscores are acceptable). Also, the plugin will change all text "
+"you write in this field to lowercase and replace spaces and special "
+"characters with an underscore automatically."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:36
+msgid ""
+"You are required to choose one of the supported option types when creating a "
+"new option. Here is a list of the available option types. For more "
+"information about each type click the <code>Option Types</code> tab to the "
+"left."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:44
+msgid ""
+"Enter a detailed description for the users to read on the Theme Options "
+"page, HTML is allowed. This is also where you enter content for both the "
+"Textblock & Textblock Titled option types."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:46
+msgid "Choices"
+msgstr "Выбор"
+
+#: option-tree/includes/ot-functions-docs-page.php:47
+msgid ""
+"Click the \"Add Choice\" button to add an item to the choices array. This "
+"will only affect the following option types: Checkbox, Radio, Select & "
+"Select Image."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:50
+msgid ""
+"Click the \"Add Setting\" button found inside a newly created setting to add "
+"an item to the settings array. This will only affect the List Item type."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:53
+msgid ""
+"Setting the standard value for your option only works for some option types. "
+"Those types are one that have a single string value saved to them and not an "
+"array of values."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:55
+msgid "Rows"
+msgstr "Строки"
+
+#: option-tree/includes/ot-functions-docs-page.php:56
+msgid ""
+"Enter a numeric value for the number of rows in your textarea. This will "
+"only affect the following option types: CSS, Textarea, & Textarea Simple."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:58
+msgid "Post Type"
+msgstr "Тип записи"
+
+#: option-tree/includes/ot-functions-docs-page.php:59
+msgid ""
+"Add a comma separated list of post type like <code>post,page</code>. This "
+"will only affect the following option types: Custom Post Type Checkbox, & "
+"Custom Post Type Select. Below are the default post types available with "
+"WordPress and that are also compatible with OptionTree. You can also add "
+"your own custom <code>post_type</code>. At this time <code>any</code> does "
+"not seem to return results properly and is something I plan on looking into."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:67
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+#: option-tree/includes/ot-functions-docs-page.php:68
+msgid ""
+"Add a comma separated list of any registered taxonomy like <code>category,"
+"post_tag</code>. This will only affect the following option types: Taxonomy "
+"Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:70
+msgid "Min, Max, & Step"
+msgstr "Мин, макс и шаг"
+
+#: option-tree/includes/ot-functions-docs-page.php:71
+msgid ""
+"Add a comma separated list of options in the following format <code>0,100,1</"
+"code> (slide from <code>0-100</code> in intervals of <code>1</code>). The "
+"three values represent the minimum, maximum, and step options and will only "
+"affect the Numeric Slider option type."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:73
+msgid "CSS Class"
+msgstr "Класс CSS"
+
+#: option-tree/includes/ot-functions-docs-page.php:74
+msgid "Add and optional class to any option type."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:76
+msgid "Condition"
+msgstr "Состояние"
+
+#: option-tree/includes/ot-functions-docs-page.php:77
+#, php-format
+msgid ""
+"Add a comma separated list (no spaces) of conditions in which the field will "
+"be visible, leave this setting empty to always show the field. In these "
+"examples, %s is a placeholder for your condition, which can be in the form "
+"of %s."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:79
+msgid "Operator"
+msgstr "Оператор"
+
+#: option-tree/includes/ot-functions-docs-page.php:80
+#, php-format
+msgid ""
+"Choose the logical operator to compute the result of the conditions. Your "
+"options are %s and %s."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:111
+#, php-format
+msgid ""
+"The Background option type is for adding background styles to your theme "
+"either dynamically via the CSS option type below or manually with %s. The "
+"Background option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:114
+msgid ""
+"The Category Checkbox option type displays a list of category IDs. It allows "
+"the user to check multiple category IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:117
+msgid ""
+"The Category Select option type displays a list of category IDs. It allows "
+"the user to select only one category ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:120
+msgid ""
+"The Checkbox option type displays a group of choices. It allows the user to "
+"check multiple choices and will return that value as an array for use in a "
+"custom function or loop."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:122
+msgid "Colorpicker"
+msgstr "Выбор цвета"
+
+#: option-tree/includes/ot-functions-docs-page.php:123
+msgid ""
+"The Colorpicker option type saves a hexadecimal color code for use in CSS. "
+"Use it to modify the color of something in your theme."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:126
+#, php-format
+msgid ""
+"The CSS option type is a textarea that when used properly can add dynamic "
+"CSS to your theme from within OptionTree. Unfortunately, due server "
+"limitations you will need to create a file named %s at the root level of "
+"your theme and change permissions using %s so the server can write to the "
+"file. I have had the most success setting this single file to %s but feel "
+"free to play around with permissions until everything is working. A good "
+"starting point is %s. When the server can save to the file, CSS will "
+"automatically be updated when you save your Theme Options."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:128
+#, php-format
+msgid ""
+"This example assumes you have an option with the ID of %1$s. Which means "
+"this option will automatically insert the value of %1$s into the %2$s when "
+"the Theme Options are saved."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:130
+msgid "Input"
+msgstr "Входные данные"
+
+#: option-tree/includes/ot-functions-docs-page.php:136
+msgid "Output"
+msgstr "Выходные данные"
+
+#: option-tree/includes/ot-functions-docs-page.php:145
+#, php-format
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It allows the user to "
+"check multiple post IDs for use in a custom function or loop. Requires at "
+"least one valid %1$s in the %1$s field."
+msgstr ""
+"Тип опции Выбор пользовательского типа сообщения отображает список "
+"идентификаторов из любого доступного типа сообщения WordPress или "
+"пользовательского типа сообщения. Он позволяет пользователю проверять "
+"несколько идентификаторов записей для использования в пользовательской "
+"функции или цикле. Требуется хотя бы один действительный %1$s в поле %1$s."
+
+#: option-tree/includes/ot-functions-docs-page.php:148
+#, php-format
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It will return a single "
+"post ID for use in a custom function or loop. Requires at least one valid "
+"%1$s in the %1$s field."
+msgstr ""
+"Тип опции Выбор пользовательского типа сообщения отображает список "
+"идентификаторов из любого доступного типа сообщения WordPress или "
+"пользовательского типа сообщения. Он вернет единый идентификатор сообщения "
+"для использования в пользовательской функции или цикле. Требуется хотя бы "
+"один действительный %1$s в поле %1$s."
+
+#: option-tree/includes/ot-functions-docs-page.php:151
+msgid ""
+"The Date Picker option type is tied to a standard form input field which "
+"displays a calendar pop-up that allow the user to pick any date when focus "
+"is given to the input field. The returned value is a date formatted string."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:154
+msgid ""
+"The Date Time Picker option type is tied to a standard form input field "
+"which displays a calendar pop-up that allow the user to pick any date and "
+"time when focus is given to the input field. The returned value is a date "
+"and time formatted string."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:157
+msgid ""
+"The Gallery option type saves a comma separated list of image attachment "
+"IDs. You will need to create a front-end function to display the images in "
+"your theme."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:160
+msgid ""
+"The List Item option type replaced the Slider option type and allows for a "
+"great deal of customization. You can add settings to the List Item and those "
+"settings will be displayed to the user when they add a new List Item. "
+"Typical use is for creating sliding content or blocks of code for custom "
+"layouts."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:163
+#, php-format
+msgid ""
+"The Measurement option type is a mix of input and select fields. The text "
+"input excepts a value and the select lets you choose the unit of measurement "
+"to add to that value. Currently the default units are %s, %s, %s, and %s. "
+"However, you can change them with the %s filter."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:165
+#, php-format
+msgid ""
+"Example filter to add new units to the Measurement option type. Added to %s."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:178
+msgid ""
+"Example filter to completely change the units in the Measurement option "
+"type. Added to <code>functions.php</code>."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:194
+msgid ""
+"The Numeric Slider option type displays a jQuery UI slider. It will return a "
+"single numerical value for use in a custom function or loop."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:197
+#, php-format
+msgid ""
+"The On/Off option type displays a simple switch that can be used to turn "
+"things on or off. The saved return value is either %s or %s."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:200
+msgid ""
+"The Page Checkbox option type displays a list of page IDs. It allows the "
+"user to check multiple page IDs for use in a custom function or loop."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:203
+msgid ""
+"The Page Select option type displays a list of page IDs. It will return a "
+"single page ID for use in a custom function or loop."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:206
+msgid ""
+"The Post Checkbox option type displays a list of post IDs. It allows the "
+"user to check multiple post IDs for use in a custom function or loop."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:209
+msgid ""
+"The Post Select option type displays a list of post IDs. It will return a "
+"single post ID for use in a custom function or loop."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:212
+msgid ""
+"The Radio option type displays a group of choices. It allows the user to "
+"choose one and will return that value as a string for use in a custom "
+"function or loop."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:215
+#, php-format
+msgid ""
+"the Radio Images option type is primarily used for layouts. However, you can "
+"filter the image list using %s. As well, you can add your own custom images "
+"using the choices array."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:217
+msgid ""
+"This example executes the <code>ot_radio_images</code> filter on layout "
+"images attached to the <code>my_radio_images</code> field. Added to "
+"<code>functions.php</code>."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:242
+msgid ""
+"The Select option type is used to list anything you want that would be "
+"chosen from a select list."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:245
+#, php-format
+msgid ""
+"This option type makes it possible for users to select a WordPress "
+"registered sidebar to use on a specific area. By using the two provided "
+"filters, %s, and %s we can be selective about which sidebars are available "
+"on a specific content area."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:246
+#, php-format
+msgid ""
+"For example, if we create a WordPress theme that provides the ability to "
+"change the Blog Sidebar and we don't want to have the footer sidebars "
+"available on this area, we can unset those sidebars either manually or by "
+"using a regular expression if we have a common name like %s."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:249
+msgid ""
+"The Slider option type is technically deprecated. Use the List Item option "
+"type instead, as it's infinitely more customizable. Typical use is for "
+"creating sliding image content."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:252
+#, php-format
+msgid ""
+"The Social Links option type utilizes a drag & drop interface to create a "
+"list of social links. There are a few filters that make extending this "
+"option type easy. You can set the %s filter to %s and turn off loading "
+"default values. Use the %s filter to change the default values that are "
+"loaded. To filter the settings array use the %s filter."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:255
+msgid ""
+"The Tab option type will break a section or metabox into tabbed content."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:258
+msgid ""
+"The Tag Checkbox option type displays a list of tag IDs. It allows the user "
+"to check multiple tag IDs and will return that value as an array for use in "
+"a custom function or loop."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:261
+msgid ""
+"The Tag Select option type displays a list of tag IDs. It allows the user to "
+"select only one tag ID and will return that value for use in a custom "
+"function or loop."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:264
+msgid ""
+"The Taxonomy Checkbox option type displays a list of taxonomy IDs. It allows "
+"the user to check multiple taxonomy IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:267
+msgid ""
+"The Taxonomy Select option type displays a list of taxonomy IDs. It allows "
+"the user to select only one taxonomy ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:270
+msgid ""
+"The Text option type is used to save string values. For example, any "
+"optional or required text that is of reasonably short character length."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:273
+#, php-format
+msgid ""
+"The Textarea option type is a large string value used for custom code or "
+"text in the theme and has a WYSIWYG editor that can be filtered to change "
+"the how it is displayed. For example, you can filter %s, %s, %s, and %s."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:275
+msgid ""
+"Example filters to alter the Textarea option type. Added to <code>functions."
+"php</code>."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:277
+msgid ""
+"This example keeps WordPress from executing the <code>wpautop</code> filter "
+"on the line breaks. The default is <code>true</code> which means it wraps "
+"line breaks with an HTML <code>p</code> tag."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:290
+msgid ""
+"This example keeps WordPress from executing the <code>media_buttons</code> "
+"filter on the textarea WYSIWYG. The default is <code>true</code> which means "
+"show the buttons."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:303
+msgid ""
+"This example keeps WordPress from executing the <code>tinymce</code> filter "
+"on the textarea WYSIWYG. The default is <code>true</code> which means show "
+"the tinymce."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:316
+msgid ""
+"This example alters the <code>quicktags</code> filter on the textarea "
+"WYSIWYG. The default is <code>array( 'buttons' => 'strong,em,link,block,del,"
+"ins,img,ul,ol,li,code,spell,close' )</code> which means show those "
+"quicktags. It also means you can filter in your own custom quicktags."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:332
+msgid ""
+"The Textarea Simple option type is a large string value used for custom code "
+"or text in the theme. The Textarea Simple does not have a WYSIWYG editor."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:334
+#, php-format
+msgid ""
+"This example tells WordPress to execute the %s filter on the line breaks. "
+"The default is %s which means it does not wraps line breaks with an HTML %s "
+"tag. Added to %s."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:348
+msgid ""
+"The Textblock option type is used only on the Theme Option page. It will "
+"allow you to create & display HTML, but has no title above the text block. "
+"You can then use the Textblock to add a more detailed set of instruction on "
+"how the options are used in your theme. You would never use this in your "
+"themes template files as it does not save a value."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:351
+msgid ""
+"The Textblock Titled option type is used only on the Theme Option page. It "
+"will allow you to create & display HTML, and has a title above the text "
+"block. You can then use the Textblock Titled to add a more detailed set of "
+"instruction on how the options are used in your theme. You would never use "
+"this in your themes template files as it does not save a value."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:354
+#, php-format
+msgid ""
+"The Typography option type is for adding typography styles to your theme "
+"either dynamically via the CSS option type above or manually with %s. The "
+"Typography option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:356
+msgid ""
+"This example would filter <code>ot_recognized_font_families</code> to build "
+"your own font stack. Added to <code>functions.php</code>."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:374
+#, php-format
+msgid ""
+"The Upload option type is used to upload any WordPress supported media. "
+"After uploading, users are required to press the \"%s\" button in order to "
+"populate the input with the URI of that media. There is one caveat of this "
+"feature. If you import the theme options and have uploaded media on one site "
+"the old URI will not reflect the URI of your new site. You will have to re-"
+"upload or %s any media to your new server and change the URIs if necessary."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:406
+msgid ""
+"This function returns a value from the \"option_tree\" array of saved values "
+"or the default value supplied. The returned value would be mixed. Meaning it "
+"could be a string, integer, boolean, or array."
+msgstr ""
+
+#: option-tree/includes/ot-functions-docs-page.php:408
+#: option-tree/includes/ot-functions-docs-page.php:458
+msgid "Usage"
+msgstr "Применение"
+
+#: option-tree/includes/ot-functions-docs-page.php:412
+#: option-tree/includes/ot-functions-docs-page.php:462
+msgid "Parameters"
+msgstr "Параметры"
+
+#: option-tree/includes/ot-functions-docs-page.php:416
+#: option-tree/includes/ot-functions-docs-page.php:420
+#: option-tree/includes/ot-functions-docs-page.php:466
+msgid "string"
+msgstr "строка"
+
+#: option-tree/includes/ot-functions-docs-page.php:416
+#: option-tree/includes/ot-functions-docs-page.php:466
+msgid "required"
+msgstr "обязательный"
+
+#: option-tree/includes/ot-functions-docs-page.php:416
+msgid "Enter the options unique identifier."
+msgstr "Введите уникальный идентификатор параметра."
+
+#: option-tree/includes/ot-functions-docs-page.php:416
+#: option-tree/includes/ot-functions-docs-page.php:466
+msgid "Default:"
+msgstr "По умолчанию:"
+
+#: option-tree/includes/ot-functions-docs-page.php:416
+#: option-tree/includes/ot-functions-docs-page.php:420
+#: option-tree/includes/ot-functions-docs-page.php:466
+#: option-tree/includes/ot-functions-docs-page.php:470
+msgid "None"
+msgstr "Ничего"
+
+#: option-tree/includes/ot-functions-docs-page.php:420
+#: option-tree/includes/ot-functions-docs-page.php:470
+#: option-tree/includes/ot-functions-docs-page.php:474
+#: option-tree/includes/ot-functions-docs-page.php:478
+#: option-tree/includes/ot-functions-docs-page.php:482
+msgid "optional"
+msgstr "необязательно"
+
+#: option-tree/includes/ot-functions-docs-page.php:420
+msgid ""
+"Enter a default return value. This is just incase the request returns null."
+msgstr ""
+"Введите возвращаемое по умолчанию значение. Это просто ошибка, когда запрос "
+"возвращает значение null."
+
+#: option-tree/includes/ot-functions-docs-page.php:420
+#: option-tree/includes/ot-functions-docs-page.php:470
+#: option-tree/includes/ot-functions-docs-page.php:474
+#: option-tree/includes/ot-functions-docs-page.php:478
+#: option-tree/includes/ot-functions-docs-page.php:482
+msgid "Default"
+msgstr "По умолчанию"
+
+#: option-tree/includes/ot-functions-docs-page.php:450
+msgid ""
+"This function has been deprecated. That means it has been replaced by a new "
+"function or is no longer supported, and may be removed from future versions. "
+"All code that uses this function should be converted to use its replacement."
+msgstr ""
+"Эта функция устарела. Это означает, что она была заменена новой функцией или "
+"больше не поддерживается и может быть удалена из будущих версий. Весь код, "
+"который использует эту функцию, должен быть преобразован, чтобы использовать "
+"его замену."
+
+#: option-tree/includes/ot-functions-docs-page.php:452
+msgid "Use"
+msgstr "Использовать"
+
+#: option-tree/includes/ot-functions-docs-page.php:452
+msgid "instead"
+msgstr "вместо"
+
+#: option-tree/includes/ot-functions-docs-page.php:456
+msgid ""
+"This function returns, or echos if asked, a value from the \"option_tree\" "
+"array of saved values."
+msgstr ""
+"Эта функция возвращает или эхо, если задано, значение из массива "
+"«option_tree» из сохраненных значений."
+
+#: option-tree/includes/ot-functions-docs-page.php:466
+msgid "Enter a unique Option Key to get a returned value or array."
+msgstr ""
+"Введите уникальный ключ опции, чтобы получить возвращаемое значение или "
+"массив."
+
+#: option-tree/includes/ot-functions-docs-page.php:470
+msgid "array"
+msgstr "массив"
+
+#: option-tree/includes/ot-functions-docs-page.php:470
+msgid "Used to cut down on database queries in template files."
+msgstr "Используется для сокращения запросов к базе данных в файлах шаблонов."
+
+#: option-tree/includes/ot-functions-docs-page.php:474
+#: option-tree/includes/ot-functions-docs-page.php:478
+msgid "boolean"
+msgstr "логический"
+
+#: option-tree/includes/ot-functions-docs-page.php:474
+msgid "Echo the output."
+msgstr "Эхо вывода."
+
+#: option-tree/includes/ot-functions-docs-page.php:478
+msgid "Used to indicate the $item_id is an array of values."
+msgstr ""
+"Используется для указания, что $ item_id представляет собой массив значений."
+
+#: option-tree/includes/ot-functions-docs-page.php:482
+msgid "integer"
+msgstr "целое число"
+
+#: option-tree/includes/ot-functions-docs-page.php:482
+msgid ""
+"Numeric offset key for the $item_id array, -1 will return all values (an "
+"array starts at 0)."
+msgstr ""
+"Клавиша числового смещения для массива $item_id array, -1 вернет все "
+"значения (массив начинается с 0)."
+
+#: option-tree/includes/ot-functions-docs-page.php:510
+msgid ""
+"If you're using the plugin version of OptionTree it is highly recommended to "
+"include a <code>function_exists</code> check in your code, as described in "
+"the examples below. If you've integrated OptionTree directly into your "
+"themes root directory, you will <strong>not</strong> need to wrap your code "
+"with <code>function_exists</code>, as you're guaranteed to have the "
+"<code>ot_get_option()</code> function available."
+msgstr ""
+"Если вы используете версию плагина Дерево опций, настоятельно рекомендуем "
+"включить в ваш код проверку <code>function_exists</code>, как описано в "
+"примерах ниже. Если вы включили Дерево опций прямо в корневой каталог темы, "
+"вам <strong>не</strong> требуется оборачивать ваш код с помощью "
+"<code>function_exists</code>, поскольку вы гарантированно получите доступную "
+"функцию <code>ot_get_option()</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:512
+msgid "String Examples"
+msgstr "Примеры строк"
+
+#: option-tree/includes/ot-functions-docs-page.php:514
+msgid "Returns the value of <code>test_input</code>."
+msgstr "Возвращает значение <code>test_input</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:520
+msgid ""
+"Returns the value of <code>test_input</code>, but also has a default value "
+"if it returns empty."
+msgstr ""
+"Возвращает значение <code>test_input</code>, но также имеет значение по "
+"умолчанию, если оно возвращает пустое значение."
+
+#: option-tree/includes/ot-functions-docs-page.php:526
+msgid "Array Examples"
+msgstr "Примеры массивов"
+
+#: option-tree/includes/ot-functions-docs-page.php:528
+msgid ""
+"Assigns the value of <code>navigation_ids</code> to the variable <code>$ids</"
+"code>. It then echos an unordered list of links (navigation) using "
+"<code>wp_list_pages()</code>."
+msgstr ""
+"Присваивает значение <code>navigation_ids</code> переменной <code>$ids</"
+"code>. Затем выводит неупорядоченный список ссылок (навигации), используя "
+"<code>wp_list_pages()</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:548
+msgid ""
+"The next two examples demonstrate how to use the <strong>Measurement</"
+"strong> option type. The Measurement option type is an array with two key/"
+"value pairs. The first is the value of measurement and the second is the "
+"unit of measurement."
+msgstr ""
+"Следующие два примера демонстрируют, как использовать тип параметра "
+"<strong>Измерение</strong>. Тип параметра Измерение представляет собой "
+"массив с двумя парами ключ / значение. Первое - это значение измерения, а "
+"второе - единица измерения."
+
+#: option-tree/includes/ot-functions-docs-page.php:574
+msgid "This example displays a very basic slider loop."
+msgstr "В этом примере показан очень простой цикл слайдера."
+
+#: option-tree/includes/ot-functions-docs-page.php:619
+msgid "It's Super Simple"
+msgstr "Это супер просто"
+
+#: option-tree/includes/ot-functions-docs-page.php:621
+msgid ""
+"Layouts make your theme awesome! With theme options data that you can save/"
+"import/export you can package themes with different color variations, or "
+"make it easy to do A/B testing on text and so much more. Basically, you save "
+"a snapshot of your data as a layout."
+msgstr ""
+"Макеты делают вашу тему потрясающей! С данными параметров темы, которые вы "
+"можете сохранить / импортировать / экспортировать, вы можете упаковать темы "
+"с различными цветовыми вариациями или упростить A / B-тестирование текста и "
+"многое другое. Базово вы сохраняете снимок ваших данных в виде макета."
+
+#: option-tree/includes/ot-functions-docs-page.php:623
+msgid ""
+"Once you have created all your different layouts, or theme variations, you "
+"can save them to a separate text file for repackaging with your theme. "
+"Alternatively, you could just make different variations for yourself and "
+"change your theme with the click of a button, all without deleting your "
+"previous options data."
+msgstr ""
+"После того как вы создали все свои различные макеты или варианты тем, вы "
+"можете сохранить их в отдельный текстовый файл для переупаковки с вашей "
+"темой. Кроме того, вы можете просто сделать разные варианты для себя и "
+"изменить свою тему одним нажатием кнопки, не удаляя предыдущие данные "
+"параметров."
+
+#: option-tree/includes/ot-functions-docs-page.php:625
+msgid ""
+" Adding a layout is ridiculously easy, follow these steps and you'll be on "
+"your way to having a WordPress super theme."
+msgstr ""
+" Добавление макета до смешного просто, выполните следующие шаги, и вы будете "
+"на пути к тому, чтобы иметь супер тему WordPress."
+
+#: option-tree/includes/ot-functions-docs-page.php:627
+msgid "For Developers"
+msgstr "Для разработчиков"
+
+#: option-tree/includes/ot-functions-docs-page.php:629
+#: option-tree/includes/ot-functions-docs-page.php:658
+msgid "Creating a Layout"
+msgstr "Создание макета"
+
+#: option-tree/includes/ot-functions-docs-page.php:631
+#: option-tree/includes/ot-functions-docs-page.php:638
+#: option-tree/includes/ot-functions-docs-page.php:644
+msgid "Go to the <code>OptionTre->Settings->Layouts</code> tab."
+msgstr "Перейдите на вкладку <code>Дерево опций->Настройки->Макеты</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:632
+msgid ""
+"Enter a name for your layout in the text field and hit \"Save Layouts\", "
+"you've created your first layout."
+msgstr ""
+"Введите имя для вашего макета в текстовое поле и нажмите «Сохранить макеты», "
+"вы создали свой первый макет."
+
+#: option-tree/includes/ot-functions-docs-page.php:633
+#: option-tree/includes/ot-functions-docs-page.php:662
+msgid "Adding a new layout is as easy as repeating the steps above."
+msgstr ""
+"Добавление нового макета так же просто, как повторение описанных выше шагов."
+
+#: option-tree/includes/ot-functions-docs-page.php:636
+#: option-tree/includes/ot-functions-docs-page.php:665
+msgid "Activating a Layout"
+msgstr "Активация макета"
+
+#: option-tree/includes/ot-functions-docs-page.php:639
+msgid "Click on the activate layout button in the actions list."
+msgstr "Нажмите кнопку активации макета в списке действий."
+
+#: option-tree/includes/ot-functions-docs-page.php:642
+#: option-tree/includes/ot-functions-docs-page.php:671
+msgid "Deleting a Layout"
+msgstr "Удаление макета"
+
+#: option-tree/includes/ot-functions-docs-page.php:645
+msgid "Click on the delete layout button in the actions list."
+msgstr "Нажмите кнопку удаления макета в списке действий."
+
+#: option-tree/includes/ot-functions-docs-page.php:648
+#: option-tree/includes/ot-functions-docs-page.php:676
+msgid "Edit Layout Data"
+msgstr "Изменить данные макета"
+
+#: option-tree/includes/ot-functions-docs-page.php:650
+#: option-tree/includes/ot-functions-docs-page.php:660
+#: option-tree/includes/ot-functions-docs-page.php:667
+msgid "Go to the <code>Appearance->Theme Options</code> page."
+msgstr "Перейдите на страницу <code>Внешний вид->Параметры темы</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:651
+#: option-tree/includes/ot-functions-docs-page.php:679
+msgid ""
+"Modify and save your theme options and the layout will be updated "
+"automatically."
+msgstr ""
+"Измените и сохраните параметры темы, и макет будет обновлен автоматически."
+
+#: option-tree/includes/ot-functions-docs-page.php:652
+#: option-tree/includes/ot-functions-docs-page.php:680
+msgid ""
+"Saving theme options data will update the currently active layout, so before "
+"you start saving make sure you want to modify the current layout."
+msgstr ""
+"Сохранение данных параметров темы обновит активный макет, поэтому перед "
+"началом сохранения убедитесь, что вы хотите изменить текущий макет."
+
+#: option-tree/includes/ot-functions-docs-page.php:653
+msgid ""
+"If you want to edit a new layout, first create it then save your theme "
+"options."
+msgstr ""
+"Если вы хотите отредактировать новый макет, сначала создайте его, а затем "
+"сохраните параметры своей темы."
+
+#: option-tree/includes/ot-functions-docs-page.php:656
+msgid "End-Users Mode"
+msgstr "Режим конечных пользователей"
+
+#: option-tree/includes/ot-functions-docs-page.php:661
+msgid ""
+"Enter a name for your layout in the text field and hit \"New Layout\", "
+"you've created your first layout."
+msgstr ""
+"Введите имя для вашего макета в текстовое поле и нажмите «Новый макет», вы "
+"создали свой первый макет."
+
+#: option-tree/includes/ot-functions-docs-page.php:668
+msgid ""
+"Choose a layout from the select list and click the \"Activate Layout\" "
+"button."
+msgstr "Выберите макет из списка выбора и нажмите кнопку «Активировать макет»."
+
+#: option-tree/includes/ot-functions-docs-page.php:673
+msgid "End-Users mode does not allow deleting layouts."
+msgstr "Режим конечных пользователей не позволяет удалять макеты."
+
+#: option-tree/includes/ot-functions-docs-page.php:678
+msgid "Go to the <code>Appearance->Theme Options</code> tab."
+msgstr "Перейдите на вкладку <code>Внешний вид->Параметры темы</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:709
+#: option-tree/includes/ot-functions-docs-page.php:791
+msgid "How-to-guide"
+msgstr "Практическое руководство"
+
+#: option-tree/includes/ot-functions-docs-page.php:711
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree's "
+"built in Meta Box API. In the code below I'll show you a basic demo of how "
+"to create your very own custom meta box using any number of the option types "
+"you have at your disposal. If you would like to see some demo code, there is "
+"a directory named <code>theme-mode</code> inside the <code>assets</code> "
+"directory that contains a file named <code>demo-meta-boxes.php</code> you "
+"can reference."
+msgstr ""
+"Есть несколько простых шагов, которые нужно предпринять, чтобы использовать "
+"встроенный в Meta Box API Дерева опций. В приведенном ниже коде я покажу вам "
+"базовую демонстрацию того, как создать свой собственный мета-бокс, используя "
+"любое количество типов опций, которыми вы располагаете. Если вы хотите "
+"увидеть демо-код, в каталоге <code>theme-mode</code> находится каталог "
+"<code>assets</code>, который содержит файл <code>demo-meta-boxes.php</code>, "
+"на который вы можете ссылаться."
+
+#: option-tree/includes/ot-functions-docs-page.php:713
+msgid ""
+"It's important to note that Meta Boxes do not support WYSIWYG editors at "
+"this time and if you set one of your options to Textarea it will "
+"automatically revert to a Textarea Simple until a valid solution is found. "
+"WordPress released this statement regarding the wp_editor() function:"
+msgstr ""
+"Важно отметить, что Meta Boxes в настоящее время не поддерживают WYSIWYG-"
+"редакторы, и если вы установите один из ваших вариантов в Текстовом поле, он "
+"автоматически вернется к Простое текстовое поле до тех пор, пока не будет "
+"найдено правильное решение. WordPress опубликовал это предложение для "
+"функции wp_editor ():"
+
+#: option-tree/includes/ot-functions-docs-page.php:715
+msgid ""
+"Once instantiated, the WYSIWYG editor cannot be moved around in the DOM. "
+"What this means in practical terms, is that you cannot put it in meta-boxes "
+"that can be dragged and placed elsewhere on the page."
+msgstr ""
+"После создания экземпляра редактор WYSIWYG не может быть перемещен в DOM. На "
+"практике это означает, что вы не можете поместить его в мета-боксы, которые "
+"можно перетаскивать и размещать в другом месте страницы."
+
+#: option-tree/includes/ot-functions-docs-page.php:717
+msgid "Create and include your custom meta boxes file."
+msgstr "Создайте и включите свой файл метаданных."
+
+#: option-tree/includes/ot-functions-docs-page.php:719
+msgid ""
+"Create a file and name it anything you want, maybe <code>meta-boxes.php</"
+"code>."
+msgstr ""
+"Создайте файл и назовите его как хотите, например <code>meta-boxes.php</"
+"code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:720
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>meta-boxes.php</code> into which will help keep you "
+"file structure nice and tidy."
+msgstr ""
+"Кроме того, вы, вероятно, захотите создать каталог <code>includes</code>, "
+"чтобы разместить ваш <code>meta-boxes.php</code>, который поможет вам "
+"сохранить структуру файлов приятной и аккуратной."
+
+#: option-tree/includes/ot-functions-docs-page.php:721
+#: option-tree/includes/ot-functions-docs-page.php:821
+msgid "Add the following code to your <code>functions.php</code>."
+msgstr "Добавьте следующий код в ваш <code>functions.php</code>."
+
+#: option-tree/includes/ot-functions-docs-page.php:731
+msgid ""
+"Add a variation of the following code to your <code>meta-boxes.php</code>. "
+"You'll obviously need to fill it in with all your custom array values. It's "
+"important to note here that we use the <code>admin_init</code> filter "
+"because if you were to call the <code>ot_register_meta_box</code> function "
+"before OptionTree was loaded the sky would fall on your head."
+msgstr ""
+"Добавьте следующий код в свой код <code>meta-boxes.php</code>. Вам, "
+"очевидно, нужно будет заполнить его всеми вашими настраиваемыми значениями "
+"массива. Здесь важно отметить, что мы используем фильтр <code>admin_init</"
+"code>, потому что если бы вам нужно было вызвать функцию "
+"<code>ot_register_meta_box</code> перед загрузкой Дерева опций, небо упало "
+"бы вам на голову."
+
+#: option-tree/includes/ot-functions-docs-page.php:793
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree as "
+"a theme included module. In the code below I'll show you a basic demo of how "
+"to include the entire plugin as a module, which will allow you to have the "
+"most up-to-date version of OptionTree without ever needing to hack the core "
+"of the plugin. If you would like to see some demo code, there is a directory "
+"named <code>theme-mode</code> inside the <code>assets</code> directory that "
+"contains a file named <code>demo-theme-options.php</code> you can reference."
+msgstr ""
+"Есть несколько простых шагов, которые необходимо предпринять, чтобы "
+"использовать Дерево опций в качестве модуля, включенного в тему. В "
+"приведенном ниже коде я покажу вам базовую демонстрацию того, как включить "
+"весь плагин в качестве модуля, который позволит вам иметь самую последнюю "
+"версию Дерева опций, даже не ломая ядро плагина. Если вы хотите увидеть демо-"
+"код, в каталоге <code>assets</code> есть каталог с именем <code>theme-mode</"
+"code>, который содержит файл <code>demo-theme-options.php</code>, на который "
+"вы можете ссылаться."
+
+#: option-tree/includes/ot-functions-docs-page.php:795
+msgid "Step 1: Include the plugin & turn on theme mode."
+msgstr "Шаг 1: Включите плагин и включите режим темы."
+
+#: option-tree/includes/ot-functions-docs-page.php:797
+#, php-format
+msgid "Download the latest version of %s and unarchive the %s directory."
+msgstr "Загрузите последнюю версию %s и разархивируйте каталог %s."
+
+#: option-tree/includes/ot-functions-docs-page.php:798
+#, php-format
+msgid ""
+"Put the %s directory in the root of your theme. For example, the server path "
+"would be %s."
+msgstr ""
+"Поместите каталог %s в корень вашей темы. Например, путь к серверу будет %s."
+
+#: option-tree/includes/ot-functions-docs-page.php:799
+#, php-format
+msgid "Add the following code to the beginning of your %s."
+msgstr "Добавьте следующий код в начало вашего %s."
+
+#: option-tree/includes/ot-functions-docs-page.php:813
+#, php-format
+msgid ""
+"For a list of all the OptionTree UI display filters refer to the %s file "
+"found in the %s directory of this plugin. This file is the starting point "
+"for developing themes with Theme Mode."
+msgstr ""
+"Список всех фильтров Дерева опций UI отражены в файле %s, находящемся в "
+"каталоге %s этого плагина. Этот файл является отправной точкой для "
+"разработки тем в режиме темы."
+
+#: option-tree/includes/ot-functions-docs-page.php:815
+msgid ""
+"You now have OptionTree built into your theme and anytime an update is "
+"available replace the old version with the new one."
+msgstr ""
+"Теперь у вас есть Дерево опций, встроенное в вашу тему, и в любое время, "
+"когда доступно обновление, замените старую версию на новую."
+
+#: option-tree/includes/ot-functions-docs-page.php:817
+msgid "Step 2: Create Theme Options without using the UI Builder."
+msgstr "Шаг 2: Создание параметров темы без использования UI Builder."
+
+#: option-tree/includes/ot-functions-docs-page.php:819
+msgid ""
+"Create a file and name it anything you want, maybe <code>theme-options.php</"
+"code>, or use the built in file export to create it for you. Remember, you "
+"should always check the file for errors before including it in your theme."
+msgstr ""
+"Создайте файл и назовите его как угодно, возможно, <code>theme-options.php</"
+"code> или используйте встроенный файл экспорта, чтобы создать его для вас. "
+"Помните, что вы всегда должны проверять файл на наличие ошибок, прежде чем "
+"включать его в свою тему."
+
+#: option-tree/includes/ot-functions-docs-page.php:820
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>theme-options.php</code> into which will help keep "
+"you file structure nice and tidy."
+msgstr ""
+"Кроме того, вы, вероятно, захотите создать каталог с именем <code>includes</"
+"code>, чтобы разместить <code>theme-options.php</code>, который поможет вам "
+"сохранить структуру файлов приятной и аккуратной."
+
+#: option-tree/includes/ot-functions-docs-page.php:831
+msgid ""
+"Add a variation of the following code to your <code>theme-options.php</"
+"code>. You'll obviously need to fill it in with all your custom array values "
+"for contextual help (optional), sections (required), and settings (required)."
+msgstr ""
+"Добавьте вариант вашего кода в <code>theme-options.php</code>. Вам, "
+"очевидно, нужно будет заполнить его всеми вашими настраиваемыми значениями "
+"массива для контекстной справки (необязательно), разделов (обязательно) и "
+"настроек (обязательно)."
+
+#: option-tree/includes/ot-functions-docs-page.php:834
+msgid ""
+"The code below is a boilerplate to get your started. For a full list of the "
+"available option types click the \"Option Types\" tab above. Also a quick "
+"note, you don't need to put OptionTree in theme mode to manually create "
+"options but you will want to hide the docs and settings as each time you "
+"load the admin area the settings be written over with the code below if "
+"they've changed in any way. However, this ensures your settings do not get "
+"tampered with by the end-user."
+msgstr ""
+"Ниже приведен код, чтобы начать работу. Полный список доступных типов опций "
+"приведен на вкладке «Типы опций» выше. Также короткое замечание: вам не "
+"нужно помещать Дерево опций в режиме темы, чтобы вручную создавать "
+"параметры, но вам нужно будет скрыть документы и настройки, так как каждый "
+"раз, когда вы загружаете административную область, настройки записываются с "
+"кодом ниже, Либо изменилось. Тем не менее, это гарантирует, что ваши "
+"настройки не будут искажены конечным пользователем."
+
+#: option-tree/includes/ot-functions-option-types.php:46
+msgid "Sorry, this function does not exist"
+msgstr "К сожалению, эта функция не существует"
+
+#: option-tree/includes/ot-functions-option-types.php:134
+msgid "background-repeat"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:152
+msgid "background-attachment"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:171
+msgid "background-position"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:224
+msgid "background-size"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:241
+#: option-tree/includes/ot-functions-option-types.php:2437
+msgid "Add Media"
+msgstr "Добавить медиа"
+
+#: option-tree/includes/ot-functions-option-types.php:315
+#: option-tree/includes/ot-functions-option-types.php:369
+msgid "No Categories Found"
+msgstr "Категории не найдены"
+
+#: option-tree/includes/ot-functions-option-types.php:364
+#: option-tree/includes/ot-functions-option-types.php:625
+#: option-tree/includes/ot-functions-option-types.php:1167
+#: option-tree/includes/ot-functions-option-types.php:1278
+#: option-tree/includes/ot-functions-option-types.php:1881
+#: option-tree/includes/ot-functions-option-types.php:1996
+msgid "Choose One"
+msgstr "Выберите один"
+
+#: option-tree/includes/ot-functions-option-types.php:895
+#: option-tree/includes/ot-functions-option-types.php:1586
+#: option-tree/includes/ot-functions-option-types.php:1751
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr ""
+"Вы можете изменить порядок с помощью перетаскивания, заказ будет обновляться "
+"после сохранения."
+
+#: option-tree/includes/ot-functions-option-types.php:1046
+msgid "On"
+msgstr "Вкл"
+
+#: option-tree/includes/ot-functions-option-types.php:1050
+msgid "Off"
+msgstr "Выкл"
+
+#: option-tree/includes/ot-functions-option-types.php:1118
+#: option-tree/includes/ot-functions-option-types.php:1173
+msgid "No Pages Found"
+msgstr "Страницы не найдены"
+
+#: option-tree/includes/ot-functions-option-types.php:1506
+msgid "Choose Sidebar"
+msgstr "Выбрать боковую панель"
+
+#: option-tree/includes/ot-functions-option-types.php:1511
+msgid "No Sidebars"
+msgstr "Нет боковых панелей"
+
+#: option-tree/includes/ot-functions-option-types.php:1629
+msgid "Google+"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1634
+msgid "LinkedIn"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1639
+msgid "Pinterest"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1644
+msgid "Youtube"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1649
+msgid "Dribbble"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1654
+msgid "Github"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1659
+msgid "Forrst"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1664
+msgid "Digg"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1669
+msgid "Delicious"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1674
+msgid "Tumblr"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1679
+msgid "Skype"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1684
+msgid "SoundCloud"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1689
+msgid "Vimeo"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1694
+msgid "Flickr"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1699
+msgid "VK.com"
+msgstr ""
+
+#: option-tree/includes/ot-functions-option-types.php:1832
+#: option-tree/includes/ot-functions-option-types.php:1886
+msgid "No Tags Found"
+msgstr "Меток не найдено"
+
+#: option-tree/includes/ot-functions-option-types.php:1944
+#: option-tree/includes/ot-functions-option-types.php:2001
+msgid "No Taxonomies Found"
+msgstr "Систематизаций не найдено"
+
+#: option-tree/includes/ot-functions-settings-page.php:35
+msgid "Warning!"
+msgstr "Предупреждение!"
+
+#: option-tree/includes/ot-functions-settings-page.php:36
+#, php-format
+msgid ""
+"Go to the %s page if you want to save data, this page is for adding settings."
+msgstr ""
+"Если вы хотите сохранить данные, перейдите на страницу %s, эта страница "
+"предназначена для добавления настроек."
+
+#: option-tree/includes/ot-functions-settings-page.php:37
+#, php-format
+msgid ""
+"If you're unsure or not completely positive that you should be editing these "
+"settings, you should read the %s first."
+msgstr ""
+"Если вы не уверены или не полностью уверены, что должны редактировать эти "
+"параметры, сначала прочтите %s."
+
+#: option-tree/includes/ot-functions-settings-page.php:38
+msgid ""
+"Things could break or be improperly displayed to the end-user if you do one "
+"of the following:"
+msgstr ""
+"Вещи могут быть повреждены или некорректно отображены конечному "
+"пользователю, если вы выполните одно из следующих действий:"
+
+#: option-tree/includes/ot-functions-settings-page.php:39
+msgid ""
+"Give two sections the same ID, give two settings the same ID, give two "
+"contextual help content areas the same ID, don't create any settings, or "
+"have a section at the end of the settings list."
+msgstr ""
+"Дайте двум разделам один и тот же идентификатор, дайте двум параметрам один "
+"и тот же идентификатор, дайте две области содержимого контекстной справки с "
+"одним и тем же идентификатором, не создавайте никаких параметров или не "
+"создавайте раздел в конце списка параметров."
+
+#: option-tree/includes/ot-functions-settings-page.php:40
+msgid ""
+"You can create as many settings as your project requires and use them how "
+"you see fit. When you add a setting here, it will be available on the Theme "
+"Options page for use in your theme. To separate your settings into sections, "
+"click the \"Add Section\" button, fill in the input fields, and a new "
+"navigation menu item will be created."
+msgstr ""
+"Вы можете создать столько параметров, сколько требует ваш проект, и "
+"использовать их так, как вам удобнее. Когда вы добавляете здесь параметр, он "
+"будет доступен на странице «Параметры темы» для использования в вашей теме. "
+"Чтобы отделить свои настройки по разделам, нажмите кнопку «Добавить раздел», "
+"заполните поля ввода и создайте новый элемент меню навигации."
+
+#: option-tree/includes/ot-functions-settings-page.php:41
+msgid ""
+"All of the settings can be sorted and rearranged to your liking with Drag & "
+"Drop. Don't worry about the order in which you create your settings, you can "
+"always reorder them."
+msgstr ""
+"Все настройки можно сортировать и переупорядочивать по своему усмотрению с "
+"помощью перетаскивания. Не беспокойтесь о порядке, в котором вы создаете "
+"свои настройки, вы всегда можете их изменить."
+
+#: option-tree/includes/ot-functions-settings-page.php:92
+msgid "Add Section"
+msgstr "Добавить раздел"
+
+#: option-tree/includes/ot-functions-settings-page.php:99
+msgid "Contextual Help"
+msgstr "Контекстная справка"
+
+#: option-tree/includes/ot-functions-settings-page.php:103
+msgid "Contextual Help Sidebar"
+msgstr "Боковая панель контекстной справки"
+
+#: option-tree/includes/ot-functions-settings-page.php:103
+msgid ""
+"If you decide to add contextual help to the Theme Option page, enter the "
+"optional \"Sidebar\" HTML here. This would be an extremely useful place to "
+"add links to your themes documentation or support forum. Only after you've "
+"added some content below will this display to the user."
+msgstr ""
+"Если вы решили добавить контекстную справку к Параметрам темы, введите здесь "
+"необязательный HTML-код «Боковая панель». Это было бы полезным местом для "
+"добавления ссылок на вашу документацию по темам или на форум поддержки. "
+"Только после того, как вы добавите какой-либо контент ниже, это отобразится "
+"для пользователя."
+
+#: option-tree/includes/ot-functions-settings-page.php:132
+msgid "Add Contextual Help Content"
+msgstr "Добавить контент контекстной справки"
+
+#: option-tree/includes/ot-functions-settings-page.php:168
+msgid ""
+"This import method has been deprecated. That means it has been replaced by a "
+"new method and is no longer supported, and may be removed from future "
+"versions. All themes that use this import method should be converted to use "
+"its replacement below."
+msgstr ""
+"Этот метод импорта устарел. Это означает, что он был заменен новым методом и "
+"больше не поддерживается, и может быть удален из будущих версий. Все темы, "
+"использующие этот метод импорта, необходимо преобразовать, чтобы "
+"использовать его замену ниже."
+
+#: option-tree/includes/ot-functions-settings-page.php:170
+#, php-format
+msgid ""
+"If you were given a Theme Options XML file with a premium or free theme, "
+"locate it on your hard drive and upload that file by clicking the upload "
+"button. A popup window will appear, upload the XML file and click \"%s\". "
+"The file URL should be in the upload input, if it is click \"Import XML\"."
+msgstr ""
+"Если вам был предоставлен XML-файл параметров темы с премиальной или "
+"бесплатной темой, найдите его на своем жестком диске и загрузите этот файл, "
+"нажав кнопку загрузки. Появится всплывающее окно, загрузите XML-файл и "
+"нажмите «%s». URL-адрес файла должен быть в загружаемом файле, если нажать "
+"«Импорт XML»."
+
+#: option-tree/includes/ot-functions-settings-page.php:173
+msgid "Import XML"
+msgstr "Импорт XML"
+
+#: option-tree/includes/ot-functions-settings-page.php:189
+msgid "Add XML"
+msgstr "Добавить XML"
+
+#: option-tree/includes/ot-functions-settings-page.php:226
+msgid ""
+"To import your Settings copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Settings"
+"\" button."
+msgstr ""
+"Чтобы импортировать настройки, скопируйте и вставьте в текстовую область "
+"произвольную последовательность буквенно-цифровых символов и нажмите кнопку "
+"«Импорт настроек»."
+
+#: option-tree/includes/ot-functions-settings-page.php:229
+msgid "Import Settings"
+msgstr "Импорт настроек"
+
+#: option-tree/includes/ot-functions-settings-page.php:271
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr ""
+"Только после того, как вы импортируете настройки, вы должны попробовать "
+"обновить Параметры темы."
+
+#: option-tree/includes/ot-functions-settings-page.php:273
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+"Чтобы импортировать параметры темы, скопируйте и вставьте в текстовую "
+"область произвольную последовательность буквенно-цифровых символов и нажмите "
+"кнопку «Импорт параметров темы»."
+
+#: option-tree/includes/ot-functions-settings-page.php:276
+msgid "Import Theme Options"
+msgstr "Импорт параметров темы"
+
+#: option-tree/includes/ot-functions-settings-page.php:318
+msgid ""
+"Only after you've imported the Settings should you try and update your "
+"Layouts."
+msgstr ""
+"Только после того, как вы импортировали настройки, вы должны попытаться "
+"обновить свои макеты."
+
+#: option-tree/includes/ot-functions-settings-page.php:320
+msgid ""
+"To import your Layouts copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Layouts\" "
+"button. Keep in mind that when you import your layouts, the active layout's "
+"saved data will write over the current data set for your Theme Options."
+msgstr ""
+"Чтобы импортировать макеты, скопируйте и вставьте в текстовую область "
+"произвольную последовательность буквенно-цифровых символов и нажмите кнопку "
+"«Импорт макетов». Имейте в виду, что при импорте макетов активные данные "
+"активного макета записываются поверх текущего набора данных для ваших "
+"параметров темы."
+
+#: option-tree/includes/ot-functions-settings-page.php:323
+msgid "Import Layouts"
+msgstr "Импорт макетов"
+
+#: option-tree/includes/ot-functions-settings-page.php:366
+#, php-format
+msgid ""
+"Export your Settings into a fully functional %s file. If you want to add "
+"your own custom %s text domain to the file, enter it into the text field "
+"before exporting. For more information on how to use this file read the "
+"documentation on %s. Remember, you should always check the file for errors "
+"before including it in your theme."
+msgstr ""
+"Экспортируйте настройки в полнофункциональный файл %s. Если вы хотите "
+"добавить свой собственный текстовый домен %s в файл, введите его в текстовое "
+"поле перед экспортом. Для получения дополнительной информации о том, как "
+"использовать этот файл, прочтите документацию по %s. Помните, что вы всегда "
+"должны проверять файл на наличие ошибок, прежде чем включать его в свою тему."
+
+#: option-tree/includes/ot-functions-settings-page.php:375
+msgid "Export Settings File"
+msgstr "Экспорт файла настроек"
+
+#: option-tree/includes/ot-functions-settings-page.php:405
+msgid ""
+"Export your Settings by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Settings</strong> textarea "
+"on another web site."
+msgstr ""
+"Экспортируйте свои настройки, выделив этот текст и выполнив копирование / "
+"вставку в пустой .txt-файл. Затем сохраните файл для импорта в другую "
+"установку WordPress позже. Кроме того, вы можете просто вставить его в "
+"текстовое поле <code>Дерево опций->Настройки->Импорт </code> "
+"<strong>Настройки</strong> на другом веб-сайте."
+
+#: option-tree/includes/ot-functions-settings-page.php:441
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Theme Options</strong> "
+"textarea on another web site."
+msgstr ""
+"Экспортируйте данные параметров темы, выделив этот текст и выполнив "
+"копирование / вставку в пустой .txt-файл. Затем сохраните файл для импорта в "
+"другую установку WordPress позже. Кроме того, вы можете просто вставить его "
+"в текстовое поле <code>Дерево опций-> Настройки->Импорт</code> "
+"<strong>Параметры темы</strong> на другом веб-сайте."
+
+#: option-tree/includes/ot-functions-settings-page.php:477
+msgid ""
+"Export your Layouts by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Layouts</strong> textarea "
+"on another web site."
+msgstr ""
+"Экспортируйте свои макеты, выделив этот текст и выполнив копирование / "
+"вставку в пустой .txt-файл. Затем сохраните файл для импорта в другую "
+"установку WordPress позже. Кроме того, вы можете просто вставить его в "
+"текстовое поле <code>Дерево опций->Настройки->Импорт</code> <strong>Макеты</"
+"strong> на другом веб-сайте."
+
+#: option-tree/includes/ot-functions-settings-page.php:519
+msgid ""
+"To add a new layout enter a unique lower case alphanumeric string (dashes "
+"allowed) in the text field and click \"Save Layouts\"."
+msgstr ""
+"Чтобы добавить новый макет, введите уникальную буквенно-цифровую строку в "
+"нижнем регистре (дефис разрешен) в текстовое поле и нажмите «Сохранить "
+"макеты»."
+
+#: option-tree/includes/ot-functions-settings-page.php:520
+msgid ""
+"As well, you can activate, remove, and drag & drop the order; all situations "
+"require you to click \"Save Layouts\" for the changes to be applied."
+msgstr ""
+"Также вы можете активировать, удалить и перетащить заказ; все ситуации "
+"требуют, чтобы вы нажали «Сохранить макеты» для примененных изменений."
+
+#: option-tree/includes/ot-functions-settings-page.php:521
+msgid ""
+"When you create a new layout it will become active and any changes made to "
+"the Theme Options will be applied to it. If you switch back to a different "
+"layout immediately after creating a new layout that new layout will have a "
+"snapshot of the current Theme Options data attached to it."
+msgstr ""
+"Когда вы создадите новый макет, он станет активным, и к нему будут применены "
+"любые изменения, внесенные в Параметры темы. Если вы переключитесь на другой "
+"макет сразу после создания нового макета, в новом макете будет снимок с "
+"текущими данными параметров темы, прикрепленными к нему."
+
+#: option-tree/includes/ot-functions-settings-page.php:522
+msgid ""
+"Visit <code>OptionTree->Documentation->Layouts Overview</code> to see a more "
+"in-depth description of what layouts are and how to use them."
+msgstr ""
+"Посетите <code>Дерево опций->Документация->Обзор макетов</code>, чтобы "
+"увидеть более подробное описание того, какие макеты и как их использовать."
+
+#: option-tree/includes/ot-functions-settings-page.php:559
+msgid "Save Layouts"
+msgstr "Сохранить макеты"
+
+#: option-tree/includes/ot-settings-api.php:356
+msgid "Reset Options"
+msgstr "Сбросить настройки"
+
+#: option-tree/includes/ot-ui-admin.php:116
+msgid "Add, Activate, & Remove Layouts"
+msgstr "Добавить, активировать и удалить макеты"
+
+#: option-tree/ot-loader.php:21
+msgid ""
+"OptionTree is installed as a plugin and also embedded in your current theme. "
+"Please deactivate the plugin to load the theme dependent version of "
+"OptionTree, and remove this warning."
+msgstr ""
+"Дерево опций устанавливается как плагин, а также встраивается в вашу текущую "
+"тему. Отключите плагин, чтобы загрузить зависящую от темы версию Дерева "
+"Опций, и удалите это предупреждение."
+
+#: pftpl3col.php:35 pftpl3col.php:51 pftpl4col.php:34 pftpl4col.php:50
+#: pftpldyn.php:35 pftpldyn.php:51
+msgid "All"
+msgstr "Все"
+
+#: postformats/searchpf.php:21 postformats/searchpfmasonry.php:22
+msgid "Check this portfolio item"
+msgstr "Проверить этот элемент портфолио"
+
+#: search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: sidebar.php:22 sidebar.php:43
+msgid "Meta"
+msgstr "Мета"
+
+#: vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr "Секция"
+
+#: vc_templates/vc_accordion_tab.php:15
+msgid "Empty section. Edit page to add content here."
+msgstr "Пустая секция. Редактировать страницу, чтобы добавить контент здесь."
+
+#: vc_templates/vc_toggle.php:4
+msgid "Click to toggle"
+msgstr "Нажмите, чтобы переключить"
+
+#: woocommerce/archive-product.php:46 woocommerce/single-product.php:47
+msgid "International Shipping"
+msgstr "Международная доставка"
+
+#: woocommerce/archive-product.php:95
+msgid "Back to All Products"
+msgstr "Вернуться к списку продуктов"
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr "Итого"
+
+#: woocommerce/cart/cart-totals.php:24 woocommerce/checkout/review-order.php:24
+msgid "Cart Subtotal"
+msgstr "Предварительный расчет"
+
+#: woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr "Доставка"
+
+#: woocommerce/cart/cart-totals.php:78 woocommerce/cart/cart.php:29
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/order/order-details.php:22
+msgid "Total"
+msgstr "Итого"
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr "(налоги, рассчитанные для %s)"
+
+#: woocommerce/cart/cart-totals.php:93
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Примечание. Доставка и налоги оцениваются в %s и будут обновляться во время "
+"проверки на основе вашей информации о выставлении счетов и доставке."
+
+#: woocommerce/cart/cart.php:26 woocommerce/checkout/review-order.php:17
+#: woocommerce/order/order-details.php:21
+msgid "Product"
+msgstr "Продукт"
+
+#: woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr "Количество"
+
+#: woocommerce/cart/cart.php:68
+msgid "Available on backorder"
+msgstr "Доступен по предзаказу"
+
+#: woocommerce/cart/cart.php:103
+msgid "Remove this item"
+msgstr "Удалить эту позицию"
+
+#: woocommerce/cart/cart.php:118 woocommerce/checkout/form-coupon.php:23
+msgid "Coupon code"
+msgstr "Код купона"
+
+#: woocommerce/cart/cart.php:119 woocommerce/checkout/form-coupon.php:24
+msgid "Apply Coupon"
+msgstr "Применить купон"
+
+#: woocommerce/cart/cart.php:124
+msgid "Update Cart"
+msgstr "Обновить корзину"
+
+#: woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr "Вас может заинтересовать"
+
+#: woocommerce/cart/mini-cart.php:60
+msgid "Subtotal"
+msgstr "Предварительный расчет"
+
+#: woocommerce/cart/mini-cart.php:65
+msgid "View Cart"
+msgstr "Посмотреть корзину"
+
+#: woocommerce/cart/mini-cart.php:66
+msgid "Checkout"
+msgstr "Оформить заказ"
+
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr "Рассчитать стоимость доставки"
+
+#: woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr "Выберите страну&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:45
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr "Область / Край"
+
+#: woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr "Выберите область&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr "Город"
+
+#: woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr "Индекс"
+
+#: woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr "Обновить сумму"
+
+#: woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr "Оплата &amp; Доставка"
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing Details"
+msgstr "Платежная информация"
+
+#: woocommerce/checkout/form-billing.php:38
+msgid "Create an account?"
+msgstr "Завести аккаунт?"
+
+#: woocommerce/checkout/form-billing.php:49
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Создайте учетную запись, введя информацию ниже. Если вы являетесь постоянным "
+"клиентом, войдите в систему в верхней части страницы."
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "Вы должны войти в систему, чтобы оформить заказ."
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/checkout/form-coupon.php:16
+msgid "Have a coupon?"
+msgstr "Есть купон?"
+
+#: woocommerce/checkout/form-coupon.php:16
+msgid "Click here to enter your code"
+msgstr "Нажмите здесь, чтобы ввести код"
+
+#: woocommerce/checkout/form-shipping.php:28
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details.php:212
+msgid "Shipping Address"
+msgstr "Адрес доставки"
+
+#: woocommerce/checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr "Отправить на другой адрес?"
+
+#: woocommerce/checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr "Дополнительная информация"
+
+#: woocommerce/checkout/review-order.php:71
+msgid "Order Total"
+msgstr "Весь заказ"
+
+#: woocommerce/checkout/thankyou.php:17
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"К сожалению, ваш заказ не может быть обработан, так как банк отклонил "
+"транзакцию."
+
+#: woocommerce/checkout/thankyou.php:21
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+"Повторите попытку покупки или перейдите на страницу своей учетной записи."
+
+#: woocommerce/checkout/thankyou.php:23
+msgid "Please attempt your purchase again."
+msgstr "Повторите попытку покупки."
+
+#: woocommerce/checkout/thankyou.php:28 woocommerce/myaccount/my-orders.php:68
+msgid "Pay"
+msgstr "Оплатить"
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr "Мой аккаунт"
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:68
+msgid "Thank you. Your order has been received."
+msgstr "Спасибо. Ваш заказ был получен."
+
+#: woocommerce/checkout/thankyou.php:41
+msgid "Order:"
+msgstr "Заказ:"
+
+#: woocommerce/checkout/thankyou.php:45
+msgid "Date:"
+msgstr "Дата:"
+
+#: woocommerce/checkout/thankyou.php:49
+msgid "Total:"
+msgstr "Итого:"
+
+#: woocommerce/checkout/thankyou.php:54
+msgid "Payment method:"
+msgstr "Способ оплаты:"
+
+#: woocommerce/content-product_cat.php:57
+msgid "Browse Products"
+msgstr "Просмотр продуктов"
+
+#: woocommerce/content-widget-product.php:17
+#: woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Оценка %s из 5"
+
+#: woocommerce/myaccount/form-login.php:26
+#: woocommerce/myaccount/form-login.php:32
+#: woocommerce/myaccount/form-login.php:51
+#: woocommerce/myaccount/form-login.php:115
+#: woocommerce/myaccount/form-login.php:134
+msgid "Login"
+msgstr "Имя пользователя"
+
+#: woocommerce/myaccount/form-login.php:27
+#: woocommerce/myaccount/form-login.php:66
+#: woocommerce/myaccount/form-login.php:103
+msgid "Register"
+msgstr "Регистрация"
+
+#: woocommerce/myaccount/form-login.php:39
+#: woocommerce/myaccount/form-login.php:122
+msgid "Username or email address"
+msgstr "Имя пользователя или адрес электронной почты"
+
+#: woocommerce/myaccount/form-login.php:43
+#: woocommerce/myaccount/form-login.php:89
+#: woocommerce/myaccount/form-login.php:126
+msgid "Password"
+msgstr "Пароль"
+
+#: woocommerce/myaccount/form-login.php:53
+#: woocommerce/myaccount/form-login.php:136
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: woocommerce/myaccount/form-login.php:57
+#: woocommerce/myaccount/form-login.php:140
+msgid "Lost your password?"
+msgstr "Забыли пароль?"
+
+#: woocommerce/myaccount/form-login.php:75
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: woocommerce/myaccount/form-login.php:82
+msgid "Email address"
+msgstr "Email"
+
+#: woocommerce/myaccount/form-login.php:96
+msgid "Anti-spam"
+msgstr "Антиспам"
+
+#: woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid ""
+"Hello <strong>%1$s</strong> <span>(not %1$s? <a href=\"%2$s\">Sign out</a>)."
+"</span><h6>"
+msgstr ""
+"Привет <strong>%1$s</strong> <span>(not %1$s? <a href=\"%2$s\">Выйти</a>).</"
+"span><h6>"
+
+#: woocommerce/myaccount/my-account.php:26
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+"С панели инструментов своего аккаунта вы можете просмотреть последние "
+"заказы, управлять своими адресами, а также <a href=\"%s\">изменить свой "
+"пароль и данные учетной записи</a>."
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr "Мои адреса"
+
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details.php:193
+msgid "Billing Address"
+msgstr "Платежный адрес"
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr "Адрес"
+
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+"Следующие адреса будут использоваться на странице оформления заказа по "
+"умолчанию."
+
+#: woocommerce/myaccount/my-address.php:63
+msgid "You have not set up this type of address yet."
+msgstr "Вы еще не установили этот тип адреса."
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr "Недавние заказы"
+
+#: woocommerce/myaccount/my-orders.php:59
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s для %s позиции"
+msgstr[1] "%s для %s позиций"
+
+#: woocommerce/myaccount/my-orders.php:81
+msgid "View"
+msgstr "Посмотреть"
+
+#: woocommerce/order/order-details.php:17
+msgid "Order Details"
+msgstr "Информация для заказа"
+
+#: woocommerce/order/order-details.php:60
+#, php-format
+msgid "Download file%s"
+msgstr "Скачать файл%s"
+
+#: woocommerce/order/order-details.php:126
+#: woocommerce/order/order-details.php:130
+#, php-format
+msgid "(Includes %s)"
+msgstr "(Включает %s)"
+
+#: woocommerce/order/order-details.php:148
+msgid "Refunded:"
+msgstr "Возвращено:"
+
+#: woocommerce/order/order-details.php:157
+msgid "Note:"
+msgstr "Заметка:"
+
+#: woocommerce/order/order-details.php:167
+msgid "Customer details"
+msgstr "Сведения о клиенте"
+
+#: woocommerce/order/order-details.php:172
+msgid "Email:"
+msgstr "Email:"
+
+#: woocommerce/order/order-details.php:172
+#: woocommerce/single-product-reviews.php:69
+msgid "Email"
+msgstr "Email"
+
+#: woocommerce/order/order-details.php:176
+msgid "Telephone:"
+msgstr "Телефон:"
+
+#: woocommerce/order/order-details.php:176
+msgid "Telephone"
+msgstr "Телефон"
+
+#: woocommerce/order/order-details.php:198
+#: woocommerce/order/order-details.php:217
+msgid "N/A"
+msgstr "Недоступно"
+
+#: woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s отзыв для %s"
+msgstr[1] "%s отзывов для %s"
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr "Отзывов пока нет."
+
+#: woocommerce/single-product-reviews.php:53
+#: woocommerce/single-product-reviews.php:57
+msgid "Add Review"
+msgstr "Добавить отзыв"
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Add a review"
+msgstr "Добавить отзыв"
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Be the first to review"
+msgstr "Оставьте отзыв первым"
+
+#: woocommerce/single-product-reviews.php:63
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Ответить %s"
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Your Rating"
+msgstr "Ваш рейтинг"
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Rate&hellip;"
+msgstr "Оценить"
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Perfect"
+msgstr "Отлично"
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Good"
+msgstr "Хорошо"
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Average"
+msgstr "Средне"
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Not that bad"
+msgstr "Неплохо"
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Very Poor"
+msgstr "Очень плохо"
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Your Review"
+msgstr "Ваш отзыв"
+
+#: woocommerce/single-product-reviews.php:98
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Только зарегистрированные пользователи, которые приобрели этот продукт, "
+"могут оставлять отзыв."
+
+#: woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr "Выберите опцию"
+
+#: woocommerce/single-product/add-to-cart/variable.php:66
+msgid "Clear selection"
+msgstr "Очистить выбор"
+
+#: woocommerce/single-product/add-to-cart/variable.php:94
+msgid "This product is currently out of stock and unavailable."
+msgstr "В настоящее время этот товар недоступен."
+
+#: woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr "Вес"
+
+#: woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr "Размеры"
+
+#: woocommerce/single-product/product-image.php:46
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: woocommerce/single-product/rating.php:31
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s отзыв"
+msgstr[1] "%s отзывов"
+
+#: woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr "Сопутствующие товары"
+
+#: woocommerce/single-product/review.php:29
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Оценка %d из 5"
+
+#: woocommerce/single-product/review.php:37
+msgid "Your comment is awaiting approval"
+msgstr "Ваш комментарий ожидает одобрения"
+
+#: woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr "подтвержденный владелец"
+
+#: woocommerce/single-product/up-sells.php:40
+msgid "You may also like&hellip;"
+msgstr "Вам также может понравиться"
+
+#: woocommerce/wishlist.php:79
+msgid "Product Name"
+msgstr "Название продукта"
+
+#: woocommerce/wishlist.php:80
+msgid "Unit Price"
+msgstr "Цена за единицу"
+
+#: woocommerce/wishlist.php:81
+msgid "Stock Status"
+msgstr "Состояние запасов"
+
+#: woocommerce/wishlist.php:124
+msgid "Free!"
+msgstr "Бесплатно!"
+
+#: woocommerce/wishlist.php:137
+msgid "Out of Stock"
+msgstr "Нет в наличии"
+
+#: woocommerce/wishlist.php:140
+msgid "In Stock"
+msgstr "В наличии"
+
+#: woocommerce/wishlist.php:152
+msgid "Remove this product"
+msgstr "Удалить этот продукт"
+
+#: woocommerce/wishlist.php:159
+msgid "No products were added to the wishlist"
+msgstr "В Избранном не добавлено ни одного продукта"
